@@ -1,4 +1,5 @@
 import SearchForm from '@/component/SearchForm';
+import { Suspense } from 'react';
 
 export default function Home() {
   return (
@@ -6,7 +7,9 @@ export default function Home() {
       <h1 className="text-4xl md:text-5xl font-bold mb-8 text-center" >
         AIESEC Directory
       </h1>
-      <SearchForm />
+      <Suspense fallback={<div>Loading form...</div>}>
+        <SearchForm />
+      </Suspense>
     </div>
   );
 }
