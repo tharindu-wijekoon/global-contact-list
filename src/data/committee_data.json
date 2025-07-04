@@ -1,0 +1,6583 @@
+{
+  "data": {
+    "committee": {
+      "id": "1626",
+      "name": "AIESEC INTERNATIONAL",
+      "regions": [
+        {
+          "id": "1627",
+          "name": "Americas",
+          "mcs": [
+            {
+              "id": "1535",
+              "name": "Argentina",
+              "lcs": [
+                {
+                  "id": "847",
+                  "name": "Buenos Aires"
+                },
+                {
+                  "id": "1249",
+                  "name": "Córdoba"
+                },
+                {
+                  "id": "2405",
+                  "name": "Entre Ríos"
+                },
+                {
+                  "id": "1676",
+                  "name": "MC Argentina"
+                },
+                {
+                  "id": "873",
+                  "name": "Mendoza"
+                },
+                {
+                  "id": "1067",
+                  "name": "Rosario (Argentina)"
+                },
+                {
+                  "id": "1677",
+                  "name": "Salta"
+                },
+                {
+                  "id": "1759",
+                  "name": "San Juan Argentina"
+                },
+                {
+                  "id": "2227",
+                  "name": "Santiago del Estero"
+                }
+              ]
+            },
+            {
+              "id": "30",
+              "name": "Barbados",
+              "lcs": [
+                {
+                  "id": "28",
+                  "name": "BRIDGETOWN"
+                }
+              ]
+            },
+            {
+              "id": "1593",
+              "name": "Bolivia",
+              "lcs": [
+                {
+                  "id": "2369",
+                  "name": "ALTIPLANO"
+                },
+                {
+                  "id": "1211",
+                  "name": "COCHABAMBA"
+                },
+                {
+                  "id": "2252",
+                  "name": "Expansiones Bolivia"
+                },
+                {
+                  "id": "2456",
+                  "name": "Expansion Gran Chaco - Bolivia"
+                },
+                {
+                  "id": "2454",
+                  "name": "Expansion Oriente - Bolivia"
+                },
+                {
+                  "id": "2982",
+                  "name": "Expansion Oruro - Bolivia"
+                },
+                {
+                  "id": "2455",
+                  "name": "Expansion Villa Imperial - Bolivia"
+                },
+                {
+                  "id": "2370",
+                  "name": "LA LLAJTA"
+                },
+                {
+                  "id": "1157",
+                  "name": "LA PAZ"
+                },
+                {
+                  "id": "1873",
+                  "name": "MC BOLIVIA"
+                },
+                {
+                  "id": "295",
+                  "name": "Santa Cruz"
+                },
+                {
+                  "id": "138",
+                  "name": "SUCRE"
+                },
+                {
+                  "id": "1705",
+                  "name": "TARIJA"
+                }
+              ]
+            },
+            {
+              "id": "1606",
+              "name": "Brazil",
+              "lcs": [
+                {
+                  "id": "1647",
+                  "name": "ABC"
+                },
+                {
+                  "id": "100",
+                  "name": "ARACAJU"
+                },
+                {
+                  "id": "32",
+                  "name": "BAURU"
+                },
+                {
+                  "id": "12",
+                  "name": "BELÉM"
+                },
+                {
+                  "id": "1248",
+                  "name": "BELO HORIZONTE "
+                },
+                {
+                  "id": "2155",
+                  "name": "BLUMENAU"
+                },
+                {
+                  "id": "1300",
+                  "name": "BRASÍLIA"
+                },
+                {
+                  "id": "434",
+                  "name": "Brazil Virtual Expansions"
+                },
+                {
+                  "id": "1766",
+                  "name": "CAMPO GRANDE (Closed)"
+                },
+                {
+                  "id": "283",
+                  "name": "CHAPECO"
+                },
+                {
+                  "id": "2150",
+                  "name": "CUIABA (Closed)"
+                },
+                {
+                  "id": "1178",
+                  "name": "CURITIBA"
+                },
+                {
+                  "id": "436",
+                  "name": "ESPM (closed)"
+                },
+                {
+                  "id": "988",
+                  "name": "FLORIANÓPOLIS"
+                },
+                {
+                  "id": "286",
+                  "name": "FORTALEZA"
+                },
+                {
+                  "id": "284",
+                  "name": "FRANCA (closed)"
+                },
+                {
+                  "id": "943",
+                  "name": "GETÚLIO VARGAS"
+                },
+                {
+                  "id": "233",
+                  "name": "INSPER (closed)"
+                },
+                {
+                  "id": "479",
+                  "name": "ITAJUBA"
+                },
+                {
+                  "id": "1666",
+                  "name": "JOAO PESSOA"
+                },
+                {
+                  "id": "232",
+                  "name": "JOINVILLE (closed)"
+                },
+                {
+                  "id": "2061",
+                  "name": "LIMEIRA"
+                },
+                {
+                  "id": "2149",
+                  "name": "Maceio"
+                },
+                {
+                  "id": "2152",
+                  "name": "MACKENZIE"
+                },
+                {
+                  "id": "231",
+                  "name": "MANAUS"
+                },
+                {
+                  "id": "723",
+                  "name": "MARINGÁ"
+                },
+                {
+                  "id": "2151",
+                  "name": "NATAL (Closed)"
+                },
+                {
+                  "id": "2343",
+                  "name": "Palmas (Closed)"
+                },
+                {
+                  "id": "148",
+                  "name": "PELOTAS"
+                },
+                {
+                  "id": "854",
+                  "name": "PORTO ALEGRE"
+                },
+                {
+                  "id": "541",
+                  "name": "RECIFE"
+                },
+                {
+                  "id": "777",
+                  "name": "RIO DE JANEIRO"
+                },
+                {
+                  "id": "1121",
+                  "name": "Salvador"
+                },
+                {
+                  "id": "958",
+                  "name": "SANTA MARIA"
+                },
+                {
+                  "id": "1816",
+                  "name": "SANTOS"
+                },
+                {
+                  "id": "435",
+                  "name": "SAO CARLOS"
+                },
+                {
+                  "id": "2344",
+                  "name": "São Luis (closed)"
+                },
+                {
+                  "id": "230",
+                  "name": "SOROCABA"
+                },
+                {
+                  "id": "2098",
+                  "name": "Teresina"
+                },
+                {
+                  "id": "287",
+                  "name": "UBERLÂNDIA"
+                },
+                {
+                  "id": "1003",
+                  "name": "USP"
+                },
+                {
+                  "id": "909",
+                  "name": "VITÓRIA"
+                }
+              ]
+            },
+            {
+              "id": "1554",
+              "name": "Canada",
+              "lcs": [
+                {
+                  "id": "4369",
+                  "name": "Brock"
+                },
+                {
+                  "id": "1238",
+                  "name": "CALGARY"
+                },
+                {
+                  "id": "954",
+                  "name": "CARLETON"
+                },
+                {
+                  "id": "1278",
+                  "name": "CONCORDIA"
+                },
+                {
+                  "id": "829",
+                  "name": "EDMONTON"
+                },
+                {
+                  "id": "1016",
+                  "name": "GUELPH"
+                },
+                {
+                  "id": "1335",
+                  "name": "HALIFAX"
+                },
+                {
+                  "id": "1150",
+                  "name": "HEC"
+                },
+                {
+                  "id": "433",
+                  "name": "LAURIER"
+                },
+                {
+                  "id": "1319",
+                  "name": "LAVAL"
+                },
+                {
+                  "id": "1196",
+                  "name": "MANITOBA"
+                },
+                {
+                  "id": "2421",
+                  "name": "MC Canada"
+                },
+                {
+                  "id": "924",
+                  "name": "MCGILL"
+                },
+                {
+                  "id": "2129",
+                  "name": "McGill (Macdonald)"
+                },
+                {
+                  "id": "934",
+                  "name": "MCMASTER"
+                },
+                {
+                  "id": "125",
+                  "name": "MEMORIAL"
+                },
+                {
+                  "id": "2087",
+                  "name": "MONCTON"
+                },
+                {
+                  "id": "1642",
+                  "name": "MRU"
+                },
+                {
+                  "id": "2083",
+                  "name": "OSHAWA"
+                },
+                {
+                  "id": "1327",
+                  "name": "OTTAWA"
+                },
+                {
+                  "id": "1318",
+                  "name": "Queen's"
+                },
+                {
+                  "id": "852",
+                  "name": "SASKATOON"
+                },
+                {
+                  "id": "1135",
+                  "name": "SFU"
+                },
+                {
+                  "id": "1125",
+                  "name": "SHERBROOKE"
+                },
+                {
+                  "id": "864",
+                  "name": "Toronto"
+                },
+                {
+                  "id": "1000",
+                  "name": "Toronto Metropolitan University"
+                },
+                {
+                  "id": "1075",
+                  "name": "UBC"
+                },
+                {
+                  "id": "923",
+                  "name": "UQAM"
+                },
+                {
+                  "id": "1119",
+                  "name": "VICTORIA"
+                },
+                {
+                  "id": "1645",
+                  "name": "WATERLOO"
+                },
+                {
+                  "id": "1132",
+                  "name": "WESTERN"
+                },
+                {
+                  "id": "1174",
+                  "name": "WINDSOR"
+                },
+                {
+                  "id": "1251",
+                  "name": "YORK"
+                }
+              ]
+            },
+            {
+              "id": "1566",
+              "name": "Chile",
+              "lcs": [
+                {
+                  "id": "1714",
+                  "name": "MC CHILE"
+                },
+                {
+                  "id": "2461",
+                  "name": "PUERTO MONTT (closed)"
+                },
+                {
+                  "id": "50",
+                  "name": "TEMUCO"
+                },
+                {
+                  "id": "6689",
+                  "name": "UC"
+                },
+                {
+                  "id": "6688",
+                  "name": "UdeC"
+                },
+                {
+                  "id": "188",
+                  "name": "U DE SANTIAGO (CLOSED)"
+                },
+                {
+                  "id": "993",
+                  "name": "UNAB"
+                },
+                {
+                  "id": "6616",
+                  "name": "UNAB Concepción"
+                },
+                {
+                  "id": "6617",
+                  "name": "UTFSM"
+                },
+                {
+                  "id": "2",
+                  "name": "VALPARAISO (Closed)"
+                },
+                {
+                  "id": "6084",
+                  "name": "Viña del Mar"
+                }
+              ]
+            },
+            {
+              "id": "1551",
+              "name": "Colombia",
+              "lcs": [
+                {
+                  "id": "1395",
+                  "name": "ANDES"
+                },
+                {
+                  "id": "759",
+                  "name": "BUCARAMANGA"
+                },
+                {
+                  "id": "1737",
+                  "name": "CENTRAL"
+                },
+                {
+                  "id": "1738",
+                  "name": "CÚCUTA"
+                },
+                {
+                  "id": "1198",
+                  "name": "EAFIT"
+                },
+                {
+                  "id": "509",
+                  "name": "EAN"
+                },
+                {
+                  "id": "1858",
+                  "name": "EXTERNADO"
+                },
+                {
+                  "id": "1165",
+                  "name": "Javeriana"
+                },
+                {
+                  "id": "661",
+                  "name": "MANIZALES"
+                },
+                {
+                  "id": "428",
+                  "name": "ROSARIO"
+                },
+                {
+                  "id": "1746",
+                  "name": "UdeA"
+                },
+                {
+                  "id": "1469",
+                  "name": "UNINORTE"
+                },
+                {
+                  "id": "2458",
+                  "name": "Virtual Expansions Colombia"
+                }
+              ]
+            },
+            {
+              "id": "577",
+              "name": "Costa Rica",
+              "lcs": [
+                {
+                  "id": "3279",
+                  "name": "Atlántico (closed)"
+                },
+                {
+                  "id": "3181",
+                  "name": "Caribe (closed)"
+                },
+                {
+                  "id": "2472",
+                  "name": "Costa Rica Expansions UCR"
+                },
+                {
+                  "id": "246",
+                  "name": "GAM"
+                },
+                {
+                  "id": "1811",
+                  "name": "MC Costa Rica"
+                },
+                {
+                  "id": "2279",
+                  "name": "Occidente (closed)"
+                },
+                {
+                  "id": "465",
+                  "name": "TEC"
+                },
+                {
+                  "id": "1014",
+                  "name": "UCR "
+                },
+                {
+                  "id": "6687",
+                  "name": "VIRTUAL EXPANSIONS"
+                }
+              ]
+            },
+            {
+              "id": "1599",
+              "name": "Dominican Republic",
+              "lcs": [
+                {
+                  "id": "718",
+                  "name": "MC Dominican Republic"
+                },
+                {
+                  "id": "1321",
+                  "name": "PUCMM (Expansion)"
+                },
+                {
+                  "id": "6249",
+                  "name": "Santiago (Expansión)"
+                },
+                {
+                  "id": "3313",
+                  "name": "UNIBE (Expansion)"
+                },
+                {
+                  "id": "3446",
+                  "name": "UNPHU (Expansion)"
+                }
+              ]
+            },
+            {
+              "id": "1567",
+              "name": "Ecuador",
+              "lcs": [
+                {
+                  "id": "1736",
+                  "name": "Ambato"
+                },
+                {
+                  "id": "822",
+                  "name": "Cuenca"
+                },
+                {
+                  "id": "2136",
+                  "name": "ESPE"
+                },
+                {
+                  "id": "1495",
+                  "name": "Expansiones Ecuador"
+                },
+                {
+                  "id": "2301",
+                  "name": "Guayaquil"
+                },
+                {
+                  "id": "2434",
+                  "name": "Loja"
+                },
+                {
+                  "id": "1513",
+                  "name": "Machala"
+                },
+                {
+                  "id": "2408",
+                  "name": "Manabi"
+                },
+                {
+                  "id": "658",
+                  "name": "PUCE"
+                },
+                {
+                  "id": "2300",
+                  "name": "UDLA"
+                },
+                {
+                  "id": "139",
+                  "name": "USFQ"
+                }
+              ]
+            },
+            {
+              "id": "1572",
+              "name": "El Salvador",
+              "lcs": [
+                {
+                  "id": "1872",
+                  "name": "ECMH "
+                },
+                {
+                  "id": "16",
+                  "name": "ESEN"
+                },
+                {
+                  "id": "2193",
+                  "name": "MC El Salvador"
+                },
+                {
+                  "id": "2476",
+                  "name": "San Miguel"
+                },
+                {
+                  "id": "17",
+                  "name": "Santa Ana"
+                },
+                {
+                  "id": "2009",
+                  "name": "USAM"
+                },
+                {
+                  "id": "1221",
+                  "name": "Zona Central"
+                }
+              ]
+            },
+            {
+              "id": "2107",
+              "name": "Global Teams",
+              "lcs": [
+                {
+                  "id": "2401",
+                  "name": "Havana"
+                },
+                {
+                  "id": "6513",
+                  "name": "Test LC (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "1556",
+              "name": "Guatemala",
+              "lcs": [
+                {
+                  "id": "3477",
+                  "name": "-"
+                },
+                {
+                  "id": "1932",
+                  "name": "ITD"
+                },
+                {
+                  "id": "1733",
+                  "name": "MC Guatemala"
+                },
+                {
+                  "id": "1215",
+                  "name": "URL Guatemala"
+                },
+                {
+                  "id": "237",
+                  "name": "USAC (closed)"
+                },
+                {
+                  "id": "2883",
+                  "name": "UVG (closed)"
+                }
+              ]
+            },
+            {
+              "id": "2339",
+              "name": "Haiti",
+              "lcs": [
+                {
+                  "id": "2341",
+                  "name": "Port au Prince"
+                }
+              ]
+            },
+            {
+              "id": "2108",
+              "name": "Honduras",
+              "lcs": [
+                {
+                  "id": "2263",
+                  "name": "Tegucigalpa"
+                }
+              ]
+            },
+            {
+              "id": "2427",
+              "name": "Jamaica",
+              "lcs": []
+            },
+            {
+              "id": "1589",
+              "name": "Mexico",
+              "lcs": [
+                {
+                  "id": "207",
+                  "name": "Aguascalientes"
+                },
+                {
+                  "id": "1168",
+                  "name": "Ciudad Juárez"
+                },
+                {
+                  "id": "1374",
+                  "name": "Guadalajara"
+                },
+                {
+                  "id": "940",
+                  "name": "Guanajuato"
+                },
+                {
+                  "id": "1054",
+                  "name": "IPN"
+                },
+                {
+                  "id": "874",
+                  "name": "ITAM"
+                },
+                {
+                  "id": "1269",
+                  "name": "Monterrey"
+                },
+                {
+                  "id": "1866",
+                  "name": "Oaxaca"
+                },
+                {
+                  "id": "911",
+                  "name": "Puebla"
+                },
+                {
+                  "id": "1287",
+                  "name": "Querétaro"
+                },
+                {
+                  "id": "552",
+                  "name": "Sinaloa"
+                },
+                {
+                  "id": "1790",
+                  "name": "Toluca"
+                },
+                {
+                  "id": "724",
+                  "name": "UNAM"
+                },
+                {
+                  "id": "240",
+                  "name": "UP"
+                },
+                {
+                  "id": "67",
+                  "name": "Virtual Expansions MX"
+                },
+                {
+                  "id": "2134",
+                  "name": "Zacatecas"
+                }
+              ]
+            },
+            {
+              "id": "178",
+              "name": "Nicaragua",
+              "lcs": [
+                {
+                  "id": "3882",
+                  "name": "AIESEC KEISER (NOT)"
+                },
+                {
+                  "id": "3881",
+                  "name": "AIESEC KEISER (NOT)"
+                },
+                {
+                  "id": "143",
+                  "name": "CLOSED LC - Central (Nicaragua)"
+                },
+                {
+                  "id": "1770",
+                  "name": "CLOSE LC  - León (Nicaragua)"
+                },
+                {
+                  "id": "3874",
+                  "name": "KEISER"
+                },
+                {
+                  "id": "3880",
+                  "name": "KEISER (NOT)"
+                },
+                {
+                  "id": "3876",
+                  "name": "KEISER (NOT)"
+                },
+                {
+                  "id": "3875",
+                  "name": "KEISER (NOT)"
+                },
+                {
+                  "id": "3879",
+                  "name": "KEISER (NOT)"
+                },
+                {
+                  "id": "3877",
+                  "name": "KEISER (NOT)"
+                },
+                {
+                  "id": "3873",
+                  "name": "KEISER (NOT)"
+                },
+                {
+                  "id": "3878",
+                  "name": "KEISER (NOT)"
+                },
+                {
+                  "id": "42",
+                  "name": "Managua (Nicaragua)"
+                },
+                {
+                  "id": "3642",
+                  "name": "UNICA"
+                },
+                {
+                  "id": "2211",
+                  "name": "Virtual Markets (Nicaragua)"
+                }
+              ]
+            },
+            {
+              "id": "1582",
+              "name": "Panama",
+              "lcs": [
+                {
+                  "id": "2424",
+                  "name": "AIESEC en Balboa"
+                },
+                {
+                  "id": "1473",
+                  "name": "AMADOR"
+                },
+                {
+                  "id": "2334",
+                  "name": "CHIRIQUI"
+                },
+                {
+                  "id": "1949",
+                  "name": "UP (University of Panama)"
+                },
+                {
+                  "id": "193",
+                  "name": "UTP"
+                },
+                {
+                  "id": "2008",
+                  "name": "VIRTUAL EXPANSIONS PANAMA"
+                }
+              ]
+            },
+            {
+              "id": "177",
+              "name": "Paraguay",
+              "lcs": [
+                {
+                  "id": "2295",
+                  "name": "MC Paraguay [Closed]"
+                },
+                {
+                  "id": "3182",
+                  "name": "UCA (Asunción) [Closed]"
+                },
+                {
+                  "id": "151",
+                  "name": "UNA (Asunción) [Closed]"
+                },
+                {
+                  "id": "6700",
+                  "name": "Virtual Expansion [Operated by AIESEC in Argentina]"
+                }
+              ]
+            },
+            {
+              "id": "1553",
+              "name": "Peru",
+              "lcs": [
+                {
+                  "id": "613",
+                  "name": "Arequipa"
+                },
+                {
+                  "id": "669",
+                  "name": "Catolica"
+                },
+                {
+                  "id": "1665",
+                  "name": "Chiclayo"
+                },
+                {
+                  "id": "1890",
+                  "name": "Cusco"
+                },
+                {
+                  "id": "589",
+                  "name": "Lima"
+                },
+                {
+                  "id": "1432",
+                  "name": "Pacifico"
+                },
+                {
+                  "id": "1768",
+                  "name": "PERU"
+                },
+                {
+                  "id": "160",
+                  "name": "Piura"
+                },
+                {
+                  "id": "1716",
+                  "name": "Trujillo"
+                },
+                {
+                  "id": "4344",
+                  "name": "Universidades Nacionales"
+                }
+              ]
+            },
+            {
+              "id": "1538",
+              "name": "Puerto Rico",
+              "lcs": [
+                {
+                  "id": "1804",
+                  "name": "Expansiones Puerto Rico (closed)"
+                },
+                {
+                  "id": "1311",
+                  "name": "Mayaguez"
+                },
+                {
+                  "id": "1153",
+                  "name": "Rio Piedras"
+                },
+                {
+                  "id": "919",
+                  "name": "Sagrado Corazon"
+                }
+              ]
+            },
+            {
+              "id": "1621",
+              "name": "United States",
+              "lcs": [
+                {
+                  "id": "1065",
+                  "name": "ATLANTA // (EXP)"
+                },
+                {
+                  "id": "1091",
+                  "name": "AUSTIN (LC)"
+                },
+                {
+                  "id": "580",
+                  "name": "MIAMI FLORIDA (LC)"
+                },
+                {
+                  "id": "944",
+                  "name": "MICHIGAN // (EXP)"
+                },
+                {
+                  "id": "688",
+                  "name": "NEW YORK CITY // (EXP)"
+                },
+                {
+                  "id": "784",
+                  "name": "NORTHWESTERN (LC)"
+                },
+                {
+                  "id": "1784",
+                  "name": "OHIO // (EXP)"
+                },
+                {
+                  "id": "1113",
+                  "name": "SAN JOSE // (EXP)"
+                },
+                {
+                  "id": "1008",
+                  "name": "SEATTLE // (EXP)"
+                },
+                {
+                  "id": "6685",
+                  "name": "UMKC (EXP)"
+                },
+                {
+                  "id": "1662",
+                  "name": "UNITED STATES (MC)"
+                },
+                {
+                  "id": "1888",
+                  "name": "University of California Los Angeles (UCLA) // (EXP)"
+                },
+                {
+                  "id": "1059",
+                  "name": "WASHINGTON DC (LC)"
+                },
+                {
+                  "id": "1127",
+                  "name": "z.MANKATO // (Closed)"
+                },
+                {
+                  "id": "1940",
+                  "name": "z. SAN DIEGO // (Closed)"
+                },
+                {
+                  "id": "798",
+                  "name": "z. SAN LUIS OBISPO // (Closed)"
+                },
+                {
+                  "id": "2073",
+                  "name": "z. ST. EDWARD'S // (closed)"
+                },
+                {
+                  "id": "780",
+                  "name": "z. TEXAS A&M // (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "1614",
+              "name": "Uruguay",
+              "lcs": [
+                {
+                  "id": "1959",
+                  "name": "AIESEC in Uruguay [Closed]"
+                },
+                {
+                  "id": "2294",
+                  "name": "AIESEC Uruguay [Closed]"
+                },
+                {
+                  "id": "1691",
+                  "name": "Closed"
+                },
+                {
+                  "id": "881",
+                  "name": "MONTEVIDEO [Closed]"
+                },
+                {
+                  "id": "1807",
+                  "name": "O.R.T. (Closed)"
+                },
+                {
+                  "id": "6699",
+                  "name": "Virtual Expansion [Operated by AIESEC in Argentina]"
+                }
+              ]
+            },
+            {
+              "id": "1557",
+              "name": "Venezuela",
+              "lcs": [
+                {
+                  "id": "2435",
+                  "name": "Aragua (Closed)"
+                },
+                {
+                  "id": "1066",
+                  "name": "Barquisimeto"
+                },
+                {
+                  "id": "144",
+                  "name": "Carabobo"
+                },
+                {
+                  "id": "106",
+                  "name": "Guayana (Closed)"
+                },
+                {
+                  "id": "1271",
+                  "name": "Maracaibo"
+                },
+                {
+                  "id": "216",
+                  "name": "Merida (Closed)"
+                },
+                {
+                  "id": "1692",
+                  "name": "San Cristóbal (Closed)"
+                },
+                {
+                  "id": "966",
+                  "name": "UCAB"
+                },
+                {
+                  "id": "145",
+                  "name": "UCV&UNIMET"
+                },
+                {
+                  "id": "2438",
+                  "name": "UNIMET (closed)"
+                },
+                {
+                  "id": "1099",
+                  "name": "USB"
+                },
+                {
+                  "id": "2013",
+                  "name": "Venezuela - Member Committee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1630",
+          "name": "Asia Pacific",
+          "mcs": [
+            {
+              "id": "572",
+              "name": "Afghanistan",
+              "lcs": [
+                {
+                  "id": "2064",
+                  "name": "AIESEC in Balkh (Expansion)"
+                },
+                {
+                  "id": "571",
+                  "name": "Kabul University"
+                },
+                {
+                  "id": "2059",
+                  "name": "Kardan University"
+                }
+              ]
+            },
+            {
+              "id": "1591",
+              "name": "Australia",
+              "lcs": [
+                {
+                  "id": "3906",
+                  "name": "[Closed] AIESEC in Australian Catholic University"
+                },
+                {
+                  "id": "3907",
+                  "name": "[Closed] AIESEC in Australian Catholic University"
+                },
+                {
+                  "id": "3910",
+                  "name": "[Closed] Australian Catholic University"
+                },
+                {
+                  "id": "1704",
+                  "name": "[Closed] Australian National University"
+                },
+                {
+                  "id": "2523",
+                  "name": "[Closed] Curtin University "
+                },
+                {
+                  "id": "3774",
+                  "name": "[Closed] Deakin University"
+                },
+                {
+                  "id": "3841",
+                  "name": "[Closed] Edith Cowan University"
+                },
+                {
+                  "id": "3908",
+                  "name": "[Closed] Murdoch University"
+                },
+                {
+                  "id": "3345",
+                  "name": "[Closed] South Australia"
+                },
+                {
+                  "id": "2521",
+                  "name": "[Closed] University of Adelaide"
+                },
+                {
+                  "id": "1466",
+                  "name": "[Closed] University of Queensland"
+                },
+                {
+                  "id": "3911",
+                  "name": "[Expansion] Central Sydney"
+                },
+                {
+                  "id": "3842",
+                  "name": "[Expansion] Edith Cowan University"
+                },
+                {
+                  "id": "3909",
+                  "name": "[Expansion] Murdoch University"
+                },
+                {
+                  "id": "1700",
+                  "name": "[Expansion] Queensland University of Technology"
+                },
+                {
+                  "id": "2852",
+                  "name": "[Expansion] University of Technology Sydney"
+                },
+                {
+                  "id": "1534",
+                  "name": "Macquarie University"
+                },
+                {
+                  "id": "2460",
+                  "name": "MC Australia"
+                },
+                {
+                  "id": "610",
+                  "name": "Monash University"
+                },
+                {
+                  "id": "1702",
+                  "name": "Royal Melbourne Institute of Technology"
+                },
+                {
+                  "id": "1496",
+                  "name": "University of Melbourne"
+                },
+                {
+                  "id": "590",
+                  "name": "University of New South Wales (UNSW)"
+                },
+                {
+                  "id": "656",
+                  "name": "University of Sydney"
+                },
+                {
+                  "id": "671",
+                  "name": "University of Western Australia"
+                }
+              ]
+            },
+            {
+              "id": "2010",
+              "name": "Bangladesh",
+              "lcs": [
+                {
+                  "id": "2488",
+                  "name": "Dhaka North"
+                },
+                {
+                  "id": "2487",
+                  "name": " Dhaka South"
+                },
+                {
+                  "id": "3941",
+                  "name": "IUT - Islamic University of Technology"
+                },
+                {
+                  "id": "3943",
+                  "name": "National Office"
+                }
+              ]
+            },
+            {
+              "id": "2104",
+              "name": "Bhutan",
+              "lcs": [
+                {
+                  "id": "2267",
+                  "name": "Thimphu"
+                }
+              ]
+            },
+            {
+              "id": "305",
+              "name": "Cambodia",
+              "lcs": [
+                {
+                  "id": "2200",
+                  "name": "[CLOSED] American University of Phnom Penh"
+                },
+                {
+                  "id": "2196",
+                  "name": "[CLOSED] CMU"
+                },
+                {
+                  "id": "2201",
+                  "name": "[CLOSED] ITC"
+                },
+                {
+                  "id": "2202",
+                  "name": "[CLOSED] IU"
+                },
+                {
+                  "id": "2197",
+                  "name": "[CLOSED] Norton"
+                },
+                {
+                  "id": "2199",
+                  "name": "[CLOSED] RUFA"
+                },
+                {
+                  "id": "2198",
+                  "name": "[CLOSED] UC"
+                },
+                {
+                  "id": "300",
+                  "name": "IFL"
+                },
+                {
+                  "id": "291",
+                  "name": "LUCT"
+                },
+                {
+                  "id": "290",
+                  "name": "MC Cambodia"
+                },
+                {
+                  "id": "304",
+                  "name": "Phnom Penh"
+                },
+                {
+                  "id": "292",
+                  "name": "Wat Phnom"
+                }
+              ]
+            },
+            {
+              "id": "2240",
+              "name": "Fiji",
+              "lcs": [
+                {
+                  "id": "2243",
+                  "name": "Fiji National University (FNU)"
+                },
+                {
+                  "id": "2242",
+                  "name": "The University of Fiji (UniFiji)"
+                },
+                {
+                  "id": "2241",
+                  "name": "University of the South Pacific (USP)"
+                }
+              ]
+            },
+            {
+              "id": "1594",
+              "name": "Hong Kong",
+              "lcs": [
+                {
+                  "id": "1633",
+                  "name": "CityU"
+                },
+                {
+                  "id": "717",
+                  "name": "CUHK"
+                },
+                {
+                  "id": "1298",
+                  "name": "HKBU"
+                },
+                {
+                  "id": "1110",
+                  "name": "HKU"
+                },
+                {
+                  "id": "1163",
+                  "name": "HKUST"
+                },
+                {
+                  "id": "1253",
+                  "name": "Lingnan"
+                },
+                {
+                  "id": "3678",
+                  "name": "Member Committee"
+                },
+                {
+                  "id": "570",
+                  "name": "PolyU"
+                }
+              ]
+            },
+            {
+              "id": "1585",
+              "name": "India",
+              "lcs": [
+                {
+                  "id": "4567",
+                  "name": "-"
+                },
+                {
+                  "id": "608",
+                  "name": "Ahmedabad"
+                },
+                {
+                  "id": "1490",
+                  "name": "Bengaluru"
+                },
+                {
+                  "id": "2872",
+                  "name": "Bhopal"
+                },
+                {
+                  "id": "1449",
+                  "name": "Chandigarh"
+                },
+                {
+                  "id": "630",
+                  "name": "Chennai"
+                },
+                {
+                  "id": "228",
+                  "name": "Closed"
+                },
+                {
+                  "id": "6117",
+                  "name": "Closed"
+                },
+                {
+                  "id": "5787",
+                  "name": "Closed"
+                },
+                {
+                  "id": "2283",
+                  "name": "Closed"
+                },
+                {
+                  "id": "2289",
+                  "name": "Closed"
+                },
+                {
+                  "id": "14",
+                  "name": "Closed"
+                },
+                {
+                  "id": "2280",
+                  "name": "Closed"
+                },
+                {
+                  "id": "2284",
+                  "name": "Closed"
+                },
+                {
+                  "id": "1669",
+                  "name": "Closed"
+                },
+                {
+                  "id": "4566",
+                  "name": "Closed"
+                },
+                {
+                  "id": "2282",
+                  "name": "Closed"
+                },
+                {
+                  "id": "432",
+                  "name": "Closed"
+                },
+                {
+                  "id": "21",
+                  "name": "Dehradun"
+                },
+                {
+                  "id": "651",
+                  "name": "Delhi IIT"
+                },
+                {
+                  "id": "588",
+                  "name": "Delhi University"
+                },
+                {
+                  "id": "632",
+                  "name": "Hyderabad"
+                },
+                {
+                  "id": "2340",
+                  "name": "India National Office"
+                },
+                {
+                  "id": "272",
+                  "name": "Indore"
+                },
+                {
+                  "id": "616",
+                  "name": "JAIPUR "
+                },
+                {
+                  "id": "241",
+                  "name": "Jalandhar"
+                },
+                {
+                  "id": "631",
+                  "name": "Kolkata"
+                },
+                {
+                  "id": "1794",
+                  "name": "Ludhiana"
+                },
+                {
+                  "id": "273",
+                  "name": "M.A.H.E."
+                },
+                {
+                  "id": "1393",
+                  "name": "Mumbai"
+                },
+                {
+                  "id": "150",
+                  "name": "Navi Mumbai"
+                },
+                {
+                  "id": "2873",
+                  "name": "Noida"
+                },
+                {
+                  "id": "74",
+                  "name": "Patiala"
+                },
+                {
+                  "id": "1418",
+                  "name": "Pune"
+                },
+                {
+                  "id": "229",
+                  "name": "Surat"
+                },
+                {
+                  "id": "2281",
+                  "name": "Vallabh Vidyanagar (VVN)"
+                },
+                {
+                  "id": "75",
+                  "name": "Visakhapatnam"
+                },
+                {
+                  "id": "2012",
+                  "name": "VIT"
+                }
+              ]
+            },
+            {
+              "id": "1539",
+              "name": "Indonesia",
+              "lcs": [
+                {
+                  "id": "1332",
+                  "name": "Bandung"
+                },
+                {
+                  "id": "2871",
+                  "name": "BINUS"
+                },
+                {
+                  "id": "2090",
+                  "name": "(CLOSED) ESQBS"
+                },
+                {
+                  "id": "2071",
+                  "name": "(CLOSED) IPMI International Business School"
+                },
+                {
+                  "id": "2091",
+                  "name": "(CLOSED) UMN"
+                },
+                {
+                  "id": "2094",
+                  "name": "(CLOSED) UNLAM"
+                },
+                {
+                  "id": "2127",
+                  "name": "IPB"
+                },
+                {
+                  "id": "2089",
+                  "name": "MC AIESEC Indonesia"
+                },
+                {
+                  "id": "36",
+                  "name": "PM"
+                },
+                {
+                  "id": "1837",
+                  "name": "PU"
+                },
+                {
+                  "id": "1231",
+                  "name": "Semarang"
+                },
+                {
+                  "id": "732",
+                  "name": "Surabaya"
+                },
+                {
+                  "id": "2095",
+                  "name": "Trisakti"
+                },
+                {
+                  "id": "786",
+                  "name": "UB"
+                },
+                {
+                  "id": "94",
+                  "name": "UGM"
+                },
+                {
+                  "id": "793",
+                  "name": "UI"
+                },
+                {
+                  "id": "2092",
+                  "name": "UIN Jakarta"
+                },
+                {
+                  "id": "2097",
+                  "name": "UKSW"
+                },
+                {
+                  "id": "2278",
+                  "name": "UMM"
+                },
+                {
+                  "id": "1151",
+                  "name": "UNAND"
+                },
+                {
+                  "id": "2015",
+                  "name": "UNEJ"
+                },
+                {
+                  "id": "1699",
+                  "name": "UNHAS"
+                },
+                {
+                  "id": "1838",
+                  "name": "UNILA"
+                },
+                {
+                  "id": "2096",
+                  "name": "UNJ"
+                },
+                {
+                  "id": "2466",
+                  "name": "Unpad"
+                },
+                {
+                  "id": "6",
+                  "name": "UNS"
+                },
+                {
+                  "id": "2014",
+                  "name": "Unsoed"
+                },
+                {
+                  "id": "1895",
+                  "name": "Unsri"
+                },
+                {
+                  "id": "2093",
+                  "name": "UNTAN"
+                },
+                {
+                  "id": "2870",
+                  "name": "UPNVJ"
+                },
+                {
+                  "id": "62",
+                  "name": "UPNVY"
+                },
+                {
+                  "id": "2047",
+                  "name": "USU"
+                }
+              ]
+            },
+            {
+              "id": "495",
+              "name": "Iran",
+              "lcs": [
+                {
+                  "id": "1918",
+                  "name": "Ahvaz (Expansion Initiative)"
+                },
+                {
+                  "id": "1942",
+                  "name": "Allameh Tabatabaie' University"
+                },
+                {
+                  "id": "1822",
+                  "name": "Amirkabir University"
+                },
+                {
+                  "id": "2223",
+                  "name": "Hamedan"
+                },
+                {
+                  "id": "2225",
+                  "name": "Hamedan"
+                },
+                {
+                  "id": "2224",
+                  "name": "Hamedan"
+                },
+                {
+                  "id": "1917",
+                  "name": "Isfahan"
+                },
+                {
+                  "id": "2220",
+                  "name": "Kermanshah"
+                },
+                {
+                  "id": "2222",
+                  "name": "Kermanshah"
+                },
+                {
+                  "id": "2221",
+                  "name": "Kermanshah"
+                },
+                {
+                  "id": "2219",
+                  "name": "Kermanshah"
+                },
+                {
+                  "id": "2058",
+                  "name": "Kish Island (Expansion Initiative)"
+                },
+                {
+                  "id": "1915",
+                  "name": "Shiraz"
+                },
+                {
+                  "id": "1916",
+                  "name": "Tabriz"
+                },
+                {
+                  "id": "87",
+                  "name": "University of Tehran"
+                }
+              ]
+            },
+            {
+              "id": "1615",
+              "name": "Japan",
+              "lcs": [
+                {
+                  "id": "1160",
+                  "name": "AOYAMAGAKUIN UNIVERSITY"
+                },
+                {
+                  "id": "1094",
+                  "name": "CHUO UNIVERSITY"
+                },
+                {
+                  "id": "1058",
+                  "name": "DOSHISHA UNIVERSITY"
+                },
+                {
+                  "id": "6691",
+                  "name": "FUKUOKA (EXP)"
+                },
+                {
+                  "id": "797",
+                  "name": "HIROSHIMA"
+                },
+                {
+                  "id": "776",
+                  "name": "HITOTSUBASHI UNIVERSITY"
+                },
+                {
+                  "id": "760",
+                  "name": "HOKKAIDO"
+                },
+                {
+                  "id": "1199",
+                  "name": "KEIO SFC"
+                },
+                {
+                  "id": "1156",
+                  "name": "KEIO UNIVERSITY"
+                },
+                {
+                  "id": "1205",
+                  "name": "KOBE UNIVERSITY"
+                },
+                {
+                  "id": "1197",
+                  "name": "KWANSEI GAKUIN UNIVERSITY"
+                },
+                {
+                  "id": "720",
+                  "name": "KYOTO UNIVERSITY"
+                },
+                {
+                  "id": "1104",
+                  "name": "MEIJI UNIVERSITY"
+                },
+                {
+                  "id": "1001",
+                  "name": "NAGOYA CITY UNIVERSITY"
+                },
+                {
+                  "id": "1083",
+                  "name": "NAGOYA UNIVERSITY"
+                },
+                {
+                  "id": "890",
+                  "name": "NANZAN UNIVERSITY"
+                },
+                {
+                  "id": "1159",
+                  "name": "OSAKA METROPOLITAN UNIVERSITY"
+                },
+                {
+                  "id": "90",
+                  "name": "RITSUMEIKAN ASIA PACIFIC UNIVERSITY "
+                },
+                {
+                  "id": "1367",
+                  "name": "SAINT PAUL'S UNIVERSITY"
+                },
+                {
+                  "id": "1308",
+                  "name": "SENDAI (Closed)"
+                },
+                {
+                  "id": "1005",
+                  "name": "SHIGA UNIVERSITY"
+                },
+                {
+                  "id": "1324",
+                  "name": "SOPHIA UNIVERSITY"
+                },
+                {
+                  "id": "807",
+                  "name": "The University of Osaka"
+                },
+                {
+                  "id": "828",
+                  "name": "The University of Tokyo"
+                },
+                {
+                  "id": "421",
+                  "name": "University of Tsukuba"
+                },
+                {
+                  "id": "1144",
+                  "name": "WASEDA UNIVERSITY"
+                }
+              ]
+            },
+            {
+              "id": "1562",
+              "name": "Korea",
+              "lcs": [
+                {
+                  "id": "1828",
+                  "name": "CUK"
+                },
+                {
+                  "id": "167",
+                  "name": "DWU"
+                },
+                {
+                  "id": "263",
+                  "name": "EWHA"
+                },
+                {
+                  "id": "1827",
+                  "name": "HIU"
+                },
+                {
+                  "id": "166",
+                  "name": "HUFS(Hankuk University of Foreign Studies)"
+                },
+                {
+                  "id": "2131",
+                  "name": "IGC(closed)"
+                },
+                {
+                  "id": "1191",
+                  "name": "INHA"
+                },
+                {
+                  "id": "2132",
+                  "name": "KIT(closed)"
+                },
+                {
+                  "id": "1830",
+                  "name": "KMU(closed)"
+                },
+                {
+                  "id": "1688",
+                  "name": "KNU(closed)"
+                },
+                {
+                  "id": "2312",
+                  "name": "Korea Member Committee"
+                },
+                {
+                  "id": "124",
+                  "name": "KU"
+                },
+                {
+                  "id": "868",
+                  "name": "PNU"
+                },
+                {
+                  "id": "122",
+                  "name": "SGU"
+                },
+                {
+                  "id": "739",
+                  "name": "SKKU"
+                },
+                {
+                  "id": "39",
+                  "name": "SMU"
+                },
+                {
+                  "id": "123",
+                  "name": "SNU"
+                },
+                {
+                  "id": "262",
+                  "name": "SSU(EXP)"
+                },
+                {
+                  "id": "134",
+                  "name": "SWU"
+                },
+                {
+                  "id": "1689",
+                  "name": "YSU"
+                }
+              ]
+            },
+            {
+              "id": "55",
+              "name": "Laos",
+              "lcs": [
+                {
+                  "id": "23",
+                  "name": "Vientiane"
+                }
+              ]
+            },
+            {
+              "id": "1613",
+              "name": "Mainland of China",
+              "lcs": [
+                {
+                  "id": "5820",
+                  "name": "Beijing"
+                },
+                {
+                  "id": "3510",
+                  "name": "Beijing East"
+                },
+                {
+                  "id": "3545",
+                  "name": "Chengdu"
+                },
+                {
+                  "id": "132",
+                  "name": "-Closed, BFSU"
+                },
+                {
+                  "id": "3543",
+                  "name": "-Closed, Blank"
+                },
+                {
+                  "id": "1973",
+                  "name": "-Closed, BLCU"
+                },
+                {
+                  "id": "1970",
+                  "name": "-Closed, BUPT"
+                },
+                {
+                  "id": "2868",
+                  "name": "-Closed, CUFE"
+                },
+                {
+                  "id": "1975",
+                  "name": "-Closed, CYU"
+                },
+                {
+                  "id": "2000",
+                  "name": "-Closed, DMU"
+                },
+                {
+                  "id": "2006",
+                  "name": "-Closed, DUT"
+                },
+                {
+                  "id": "1799",
+                  "name": "-Closed, ECT"
+                },
+                {
+                  "id": "2856",
+                  "name": "-Closed, GDUFS"
+                },
+                {
+                  "id": "2855",
+                  "name": "-Closed, GZHU"
+                },
+                {
+                  "id": "473",
+                  "name": "-Closed, HUST"
+                },
+                {
+                  "id": "2850",
+                  "name": "-Closed, JNU"
+                },
+                {
+                  "id": "1968",
+                  "name": "-Closed, JUFE"
+                },
+                {
+                  "id": "2865",
+                  "name": "-Closed, NAU"
+                },
+                {
+                  "id": "401",
+                  "name": "-Closed, NJU"
+                },
+                {
+                  "id": "2863",
+                  "name": "-Closed, NNU"
+                },
+                {
+                  "id": "563",
+                  "name": "-Closed, PKU"
+                },
+                {
+                  "id": "1987",
+                  "name": "-Closed, SDU"
+                },
+                {
+                  "id": "2864",
+                  "name": "-Closed, SDUFE"
+                },
+                {
+                  "id": "1989",
+                  "name": "-Closed, SEU"
+                },
+                {
+                  "id": "402",
+                  "name": "-Closed, SISU"
+                },
+                {
+                  "id": "2854",
+                  "name": "-Closed, SISU"
+                },
+                {
+                  "id": "557",
+                  "name": "-Closed, SJTU"
+                },
+                {
+                  "id": "2853",
+                  "name": "-Closed, SUIBE"
+                },
+                {
+                  "id": "2858",
+                  "name": "-Closed, SWUFE"
+                },
+                {
+                  "id": "2867",
+                  "name": "-Closed, SZU"
+                },
+                {
+                  "id": "559",
+                  "name": "-Closed, THU"
+                },
+                {
+                  "id": "2862",
+                  "name": "-Closed, UIC"
+                },
+                {
+                  "id": "250",
+                  "name": "-Closed, UM"
+                },
+                {
+                  "id": "1796",
+                  "name": "-Closed, XISU"
+                },
+                {
+                  "id": "2304",
+                  "name": "-Closed, XUT"
+                },
+                {
+                  "id": "1997",
+                  "name": "-Closed, ZUFE"
+                },
+                {
+                  "id": "2866",
+                  "name": "-Closed, ZZU"
+                },
+                {
+                  "id": "2857",
+                  "name": "Guangzhou"
+                },
+                {
+                  "id": "2402",
+                  "name": "Macau"
+                },
+                {
+                  "id": "4269",
+                  "name": "Mainland of China, Alumni"
+                },
+                {
+                  "id": "1931",
+                  "name": "Mainland of China, Member Committee"
+                },
+                {
+                  "id": "4270",
+                  "name": "Mainland of China, Membership Committee"
+                },
+                {
+                  "id": "3544",
+                  "name": "Nanjing"
+                },
+                {
+                  "id": "252",
+                  "name": "Ningbo"
+                },
+                {
+                  "id": "2861",
+                  "name": "Shanghai"
+                },
+                {
+                  "id": "3546",
+                  "name": "Shenzhen"
+                },
+                {
+                  "id": "2860",
+                  "name": "Suzhou"
+                },
+                {
+                  "id": "2065",
+                  "name": "Wenzhou"
+                },
+                {
+                  "id": "5721",
+                  "name": "Xiamen"
+                },
+                {
+                  "id": "2859",
+                  "name": "Zhuhai"
+                }
+              ]
+            },
+            {
+              "id": "1611",
+              "name": "Malaysia",
+              "lcs": [
+                {
+                  "id": "5556",
+                  "name": "-"
+                },
+                {
+                  "id": "5559",
+                  "name": "-"
+                },
+                {
+                  "id": "1500",
+                  "name": "-"
+                },
+                {
+                  "id": "2389",
+                  "name": "-"
+                },
+                {
+                  "id": "5523",
+                  "name": "-"
+                },
+                {
+                  "id": "5558",
+                  "name": "-"
+                },
+                {
+                  "id": "2430",
+                  "name": "-"
+                },
+                {
+                  "id": "97",
+                  "name": "CLOSED (ACU)"
+                },
+                {
+                  "id": "99",
+                  "name": "CLOSED (UMP)"
+                },
+                {
+                  "id": "103",
+                  "name": "CLOSED (UTP)"
+                },
+                {
+                  "id": "5524",
+                  "name": "HELP University (HELP) , Shah Alam"
+                },
+                {
+                  "id": "5557",
+                  "name": "Heriot-Watt University Malaysia Campus (HWUM) , Putrajaya"
+                },
+                {
+                  "id": "555",
+                  "name": "Johor Bahru (JB)"
+                },
+                {
+                  "id": "2396",
+                  "name": "Kedah-Perlis (KP)"
+                },
+                {
+                  "id": "1674",
+                  "name": "Kuching"
+                },
+                {
+                  "id": "2318",
+                  "name": "MC Malaysia"
+                },
+                {
+                  "id": "1326",
+                  "name": "Penang"
+                },
+                {
+                  "id": "101",
+                  "name": "Sunway (Sunway) , Petaling Jaya"
+                },
+                {
+                  "id": "480",
+                  "name": "Taylor's University (TU) , Subang Jaya"
+                },
+                {
+                  "id": "1213",
+                  "name": "Universiti Kebangsaan Malaysia (UKM) , Bangi"
+                },
+                {
+                  "id": "619",
+                  "name": "Universiti  Malaya (UM) , Kuala Lumpur"
+                },
+                {
+                  "id": "1217",
+                  "name": "Universiti Putra Malaysia (UPM) , Serdang"
+                },
+                {
+                  "id": "1962",
+                  "name": "Universiti Tunku Abdul Rahman (UTAR) , Kampar Perak"
+                },
+                {
+                  "id": "102",
+                  "name": "University of Nottingham Malaysia Campus (UNMC) , Semenyih"
+                }
+              ]
+            },
+            {
+              "id": "2105",
+              "name": "Maldives",
+              "lcs": [
+                {
+                  "id": "2266",
+                  "name": "Malé"
+                },
+                {
+                  "id": "6018",
+                  "name": "MC Sri Lanka (Maldives Expansion)"
+                }
+              ]
+            },
+            {
+              "id": "409",
+              "name": "Mongolia",
+              "lcs": [
+                {
+                  "id": "2048",
+                  "name": "Expansions I"
+                },
+                {
+                  "id": "2050",
+                  "name": "MUST"
+                },
+                {
+                  "id": "399",
+                  "name": "NUM"
+                },
+                {
+                  "id": "2049",
+                  "name": "UFE"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "name": "Myanmar",
+              "lcs": [
+                {
+                  "id": "1824",
+                  "name": "(closed)"
+                },
+                {
+                  "id": "2463",
+                  "name": "Closed "
+                },
+                {
+                  "id": "3",
+                  "name": "East Yangon [Inactive]"
+                },
+                {
+                  "id": "2313",
+                  "name": "Mandalay"
+                },
+                {
+                  "id": "2404",
+                  "name": "MC Myanmar"
+                },
+                {
+                  "id": "2139",
+                  "name": "West Yangon"
+                }
+              ]
+            },
+            {
+              "id": "112",
+              "name": "Nepal",
+              "lcs": [
+                {
+                  "id": "3609",
+                  "name": "."
+                },
+                {
+                  "id": "53",
+                  "name": "Kathmandu"
+                },
+                {
+                  "id": "2332",
+                  "name": "Kathmandu University"
+                },
+                {
+                  "id": "1876",
+                  "name": "Lumbini"
+                },
+                {
+                  "id": "2346",
+                  "name": "Nepal - National Office"
+                },
+                {
+                  "id": "2345",
+                  "name": "Patan"
+                },
+                {
+                  "id": "6696",
+                  "name": "Pokhara"
+                }
+              ]
+            },
+            {
+              "id": "1616",
+              "name": "New Zealand",
+              "lcs": [
+                {
+                  "id": "1478",
+                  "name": "AUCKLAND CITY"
+                },
+                {
+                  "id": "1457",
+                  "name": "CANTERBURY, CHRISTCHURCH"
+                },
+                {
+                  "id": "1050",
+                  "name": "OTAGO"
+                },
+                {
+                  "id": "636",
+                  "name": "VICTORIA, WELLINGTON"
+                },
+                {
+                  "id": "1423",
+                  "name": "WAIKATO, HAMILTON"
+                }
+              ]
+            },
+            {
+              "id": "1603",
+              "name": "Pakistan",
+              "lcs": [
+                {
+                  "id": "1928",
+                  "name": "Faisalabad"
+                },
+                {
+                  "id": "2086",
+                  "name": "GIK"
+                },
+                {
+                  "id": "1927",
+                  "name": "Hyderabad - PAK"
+                },
+                {
+                  "id": "25",
+                  "name": "IBA"
+                },
+                {
+                  "id": "485",
+                  "name": "Islamabad"
+                },
+                {
+                  "id": "568",
+                  "name": "Karachi"
+                },
+                {
+                  "id": "2878",
+                  "name": "Karachi South"
+                },
+                {
+                  "id": "569",
+                  "name": "Lahore - Pak"
+                },
+                {
+                  "id": "2819",
+                  "name": "LUMS"
+                },
+                {
+                  "id": "2084",
+                  "name": "Multan"
+                },
+                {
+                  "id": "2462",
+                  "name": "NUST"
+                },
+                {
+                  "id": "2784",
+                  "name": "SG"
+                }
+              ]
+            },
+            {
+              "id": "1604",
+              "name": "Philippines",
+              "lcs": [
+                {
+                  "id": "1481",
+                  "name": "Ateneo de Manila University (LC)"
+                },
+                {
+                  "id": "1901",
+                  "name": "Dasmariñas [Closed]"
+                },
+                {
+                  "id": "19",
+                  "name": "Davao [Closed]"
+                },
+                {
+                  "id": "1898",
+                  "name": "De La Salle - College of St. Benilde (EXP)"
+                },
+                {
+                  "id": "1436",
+                  "name": "De La Salle University (LC)"
+                },
+                {
+                  "id": "296",
+                  "name": "Miriam College [CLOSED]"
+                },
+                {
+                  "id": "1910",
+                  "name": "Polytechnic University of the Philippines [Closed]"
+                },
+                {
+                  "id": "1906",
+                  "name": "San Beda University (EXP)"
+                },
+                {
+                  "id": "2078",
+                  "name": "The Philippines [MC]"
+                },
+                {
+                  "id": "1664",
+                  "name": "University of Santo Tomas (LC)"
+                },
+                {
+                  "id": "1904",
+                  "name": "University of the Philippines - Clark (EXP)"
+                },
+                {
+                  "id": "666",
+                  "name": "University of the Philippines Diliman (LC)"
+                },
+                {
+                  "id": "1905",
+                  "name": "University of the Philippines Los Baños (LC)"
+                },
+                {
+                  "id": "1861",
+                  "name": "University of the Philippines - Manila (LC)"
+                }
+              ]
+            },
+            {
+              "id": "1575",
+              "name": "Singapore",
+              "lcs": [
+                {
+                  "id": "2053",
+                  "name": "National Singapore (Closed)"
+                },
+                {
+                  "id": "1036",
+                  "name": "NTU"
+                },
+                {
+                  "id": "738",
+                  "name": "NUS"
+                },
+                {
+                  "id": "141",
+                  "name": "SIM"
+                },
+                {
+                  "id": "486",
+                  "name": "SMU SG"
+                },
+                {
+                  "id": "2315",
+                  "name": "SUTD (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "1623",
+              "name": "Sri Lanka",
+              "lcs": [
+                {
+                  "id": "222",
+                  "name": "COLOMBO CENTRAL"
+                },
+                {
+                  "id": "872",
+                  "name": "COLOMBO NORTH"
+                },
+                {
+                  "id": "1340",
+                  "name": "COLOMBO SOUTH"
+                },
+                {
+                  "id": "2204",
+                  "name": "KANDY"
+                },
+                {
+                  "id": "1821",
+                  "name": "MC Sri Lanka"
+                },
+                {
+                  "id": "4535",
+                  "name": "NIBM"
+                },
+                {
+                  "id": "2186",
+                  "name": "NSBM"
+                },
+                {
+                  "id": "5490",
+                  "name": "RAJARATA"
+                },
+                {
+                  "id": "2175",
+                  "name": "RUHUNA"
+                },
+                {
+                  "id": "2188",
+                  "name": "SLIIT"
+                },
+                {
+                  "id": "221",
+                  "name": "USJ"
+                }
+              ]
+            },
+            {
+              "id": "1561",
+              "name": "Taiwan",
+              "lcs": [
+                {
+                  "id": "1713",
+                  "name": "Taiwan CCU"
+                },
+                {
+                  "id": "1710",
+                  "name": "Taiwan FCU"
+                },
+                {
+                  "id": "1310",
+                  "name": "Taiwan FJU"
+                },
+                {
+                  "id": "1856",
+                  "name": "Taiwan MC"
+                },
+                {
+                  "id": "654",
+                  "name": "Taiwan NCCU"
+                },
+                {
+                  "id": "1711",
+                  "name": "Taiwan NCHU"
+                },
+                {
+                  "id": "963",
+                  "name": "Taiwan NCKU"
+                },
+                {
+                  "id": "267",
+                  "name": "Taiwan NCTU"
+                },
+                {
+                  "id": "1712",
+                  "name": "Taiwan NCU"
+                },
+                {
+                  "id": "612",
+                  "name": "Taiwan NSYSU"
+                },
+                {
+                  "id": "268",
+                  "name": "Taiwan NTHU"
+                },
+                {
+                  "id": "605",
+                  "name": "Taiwan NTPU"
+                },
+                {
+                  "id": "672",
+                  "name": "Taiwan NTU"
+                },
+                {
+                  "id": "925",
+                  "name": "Taiwan SCU"
+                },
+                {
+                  "id": "1504",
+                  "name": "Taiwan THU"
+                },
+                {
+                  "id": "264",
+                  "name": "Taiwan WZU"
+                },
+                {
+                  "id": "1358",
+                  "name": "Taiwan YZU"
+                }
+              ]
+            },
+            {
+              "id": "1607",
+              "name": "Thailand",
+              "lcs": [
+                {
+                  "id": "1092",
+                  "name": "Assumption University"
+                },
+                {
+                  "id": "1138",
+                  "name": "Bangkok University"
+                },
+                {
+                  "id": "3081",
+                  "name": "Chiang Mai University"
+                },
+                {
+                  "id": "1133",
+                  "name": "Chulalongkorn University"
+                },
+                {
+                  "id": "1293",
+                  "name": "Kasetsart University"
+                },
+                {
+                  "id": "2391",
+                  "name": "Mahidol University"
+                },
+                {
+                  "id": "2522",
+                  "name": "MC (AIESEC in Thailand)"
+                },
+                {
+                  "id": "1681",
+                  "name": "Official Expansion Thailand"
+                },
+                {
+                  "id": "2236",
+                  "name": "Silpakorn University"
+                },
+                {
+                  "id": "2390",
+                  "name": "Stamford University"
+                },
+                {
+                  "id": "48",
+                  "name": "Thai-Nichi Institute of Technology"
+                },
+                {
+                  "id": "595",
+                  "name": "Thammasat University"
+                },
+                {
+                  "id": "1682",
+                  "name": "University of the Thai Chamber of Commerce (UTCC)"
+                }
+              ]
+            },
+            {
+              "id": "504",
+              "name": "VIETNAM",
+              "lcs": [
+                {
+                  "id": "2423",
+                  "name": "Can Tho"
+                },
+                {
+                  "id": "156",
+                  "name": "Danang"
+                },
+                {
+                  "id": "259",
+                  "name": "FHCMC"
+                },
+                {
+                  "id": "260",
+                  "name": "FHN"
+                },
+                {
+                  "id": "502",
+                  "name": "Hanoi"
+                },
+                {
+                  "id": "503",
+                  "name": "Ho Chi Minh City"
+                },
+                {
+                  "id": "155",
+                  "name": "Ho Chi Minh City South"
+                },
+                {
+                  "id": "2192",
+                  "name": "Ho Chi Minh East"
+                },
+                {
+                  "id": "2035",
+                  "name": "MC Vietnam"
+                },
+                {
+                  "id": "1693",
+                  "name": "NEU"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1629",
+          "name": "Europe",
+          "mcs": [
+            {
+              "id": "133",
+              "name": "Albania",
+              "lcs": [
+                {
+                  "id": "2209",
+                  "name": "Albania MC"
+                },
+                {
+                  "id": "2146",
+                  "name": "Elbasan Expansion Initiative (closed)"
+                },
+                {
+                  "id": "80",
+                  "name": "EUROPEAN UNIVERSITY TIRANA (Closed)"
+                },
+                {
+                  "id": "2154",
+                  "name": "Expansion of Durrës "
+                },
+                {
+                  "id": "3151",
+                  "name": "Expansion of Elbasan"
+                },
+                {
+                  "id": "3149",
+                  "name": "Expansion of Korçë"
+                },
+                {
+                  "id": "2317",
+                  "name": "Expansion of Shkodër "
+                },
+                {
+                  "id": "3150",
+                  "name": "Expansion of Vlora"
+                },
+                {
+                  "id": "2316",
+                  "name": "Korçë Expansion Initiative (closed)"
+                },
+                {
+                  "id": "117",
+                  "name": "North Tirana"
+                },
+                {
+                  "id": "3148",
+                  "name": "South Tirana"
+                }
+              ]
+            },
+            {
+              "id": "2249",
+              "name": "Andorra",
+              "lcs": [
+                {
+                  "id": "2250",
+                  "name": "Andorra La Vella"
+                }
+              ]
+            },
+            {
+              "id": "1541",
+              "name": "Armenia",
+              "lcs": [
+                {
+                  "id": "871",
+                  "name": "YEREVAN"
+                }
+              ]
+            },
+            {
+              "id": "1592",
+              "name": "Austria",
+              "lcs": [
+                {
+                  "id": "2166",
+                  "name": "AUSTRIA MC"
+                },
+                {
+                  "id": "1476",
+                  "name": "GRAZ"
+                },
+                {
+                  "id": "1499",
+                  "name": "INNSBRUCK"
+                },
+                {
+                  "id": "594",
+                  "name": "LINZ"
+                },
+                {
+                  "id": "400",
+                  "name": "SALZBURG (CLOSED)"
+                },
+                {
+                  "id": "1667",
+                  "name": "VIENNA BOKU (CLOSED)"
+                },
+                {
+                  "id": "1654",
+                  "name": "VIENNA TU"
+                },
+                {
+                  "id": "210",
+                  "name": "VIENNA UV"
+                },
+                {
+                  "id": "1429",
+                  "name": "VIENNA WU"
+                }
+              ]
+            },
+            {
+              "id": "539",
+              "name": "Azerbaijan",
+              "lcs": [
+                {
+                  "id": "54",
+                  "name": "Baku ADA"
+                },
+                {
+                  "id": "2308",
+                  "name": "Baku Qafqaz"
+                },
+                {
+                  "id": "545",
+                  "name": "Baku Synergy"
+                },
+                {
+                  "id": "1952",
+                  "name": "Expansion Ganja"
+                },
+                {
+                  "id": "2307",
+                  "name": "Expansion Khazar"
+                },
+                {
+                  "id": "2474",
+                  "name": "Expansion Lankaran"
+                },
+                {
+                  "id": "2309",
+                  "name": "Expansion Sumgayit"
+                },
+                {
+                  "id": "2269",
+                  "name": "MC Azerbaijan"
+                }
+              ]
+            },
+            {
+              "id": "79",
+              "name": "Belarus",
+              "lcs": [
+                {
+                  "id": "2368",
+                  "name": "Belarus (MC)"
+                },
+                {
+                  "id": "2172",
+                  "name": "Grodno [Expansion]"
+                },
+                {
+                  "id": "76",
+                  "name": "Minsk"
+                }
+              ]
+            },
+            {
+              "id": "1624",
+              "name": "Belgium",
+              "lcs": [
+                {
+                  "id": "593",
+                  "name": "-"
+                },
+                {
+                  "id": "700",
+                  "name": "Belgium (National) "
+                },
+                {
+                  "id": "695",
+                  "name": "Brussel"
+                },
+                {
+                  "id": "1354",
+                  "name": "Gent"
+                },
+                {
+                  "id": "1960",
+                  "name": "IHECS"
+                },
+                {
+                  "id": "1032",
+                  "name": "LEUVEN"
+                },
+                {
+                  "id": "706",
+                  "name": "LIMBURG"
+                },
+                {
+                  "id": "1412",
+                  "name": "LOUVAIN LA NEUVE"
+                },
+                {
+                  "id": "1961",
+                  "name": "Luxembourg"
+                },
+                {
+                  "id": "1967",
+                  "name": "MC (BELGIUM)"
+                },
+                {
+                  "id": "880",
+                  "name": "ULB"
+                },
+                {
+                  "id": "460",
+                  "name": "ULB, St. Louis, IHECS, ICHEC"
+                },
+                {
+                  "id": "642",
+                  "name": "University of Antwerp (UA)"
+                },
+                {
+                  "id": "461",
+                  "name": "VUB"
+                }
+              ]
+            },
+            {
+              "id": "1590",
+              "name": "Bosnia and Herzegovina",
+              "lcs": [
+                {
+                  "id": "1",
+                  "name": "BANjA LUKA"
+                },
+                {
+                  "id": "2885",
+                  "name": "Bihać (CLOSED)"
+                },
+                {
+                  "id": "2025",
+                  "name": "BIHAĆ (CLOSED)"
+                },
+                {
+                  "id": "1925",
+                  "name": "Istočno Sarajevo (CLOSED)"
+                },
+                {
+                  "id": "806",
+                  "name": "MOSTAR"
+                },
+                {
+                  "id": "752",
+                  "name": "SARAJEVO"
+                },
+                {
+                  "id": "2525",
+                  "name": "Tuzla (CLOSED)"
+                },
+                {
+                  "id": "2556",
+                  "name": "Tuzla (CLOSED)"
+                },
+                {
+                  "id": "2480",
+                  "name": "Tuzla (CLOSED)"
+                },
+                {
+                  "id": "2481",
+                  "name": "Zenica (CLOSED)"
+                }
+              ]
+            },
+            {
+              "id": "1588",
+              "name": "Bulgaria",
+              "lcs": [
+                {
+                  "id": "2479",
+                  "name": "MC Bulgaria"
+                },
+                {
+                  "id": "1783",
+                  "name": "Plovdiv - CLOSED"
+                },
+                {
+                  "id": "201",
+                  "name": "Sofia University"
+                },
+                {
+                  "id": "1445",
+                  "name": "Sofia UNWE"
+                },
+                {
+                  "id": "645",
+                  "name": "VARNA - CLOSED"
+                },
+                {
+                  "id": "606",
+                  "name": "Veliko Tarnovo - CLOSED"
+                }
+              ]
+            },
+            {
+              "id": "1595",
+              "name": "Croatia",
+              "lcs": [
+                {
+                  "id": "1431",
+                  "name": "AIESEC in Split"
+                },
+                {
+                  "id": "4182",
+                  "name": "DUBROVNIK (CLOSED)"
+                },
+                {
+                  "id": "6315",
+                  "name": "FER"
+                },
+                {
+                  "id": "1406",
+                  "name": "OSIJEK"
+                },
+                {
+                  "id": "1774",
+                  "name": "PULA ( CLOSED)"
+                },
+                {
+                  "id": "1425",
+                  "name": "RIJEKA (Closed)"
+                },
+                {
+                  "id": "4181",
+                  "name": "ŠIBENIK (CLOSED)"
+                },
+                {
+                  "id": "4183",
+                  "name": "SLAVONSKI BROD (CLOSED)"
+                },
+                {
+                  "id": "649",
+                  "name": "VARAŽDIN (closed)"
+                },
+                {
+                  "id": "4180",
+                  "name": "ZADAR"
+                },
+                {
+                  "id": "598",
+                  "name": "ZAGREB"
+                }
+              ]
+            },
+            {
+              "id": "2109",
+              "name": "Cyprus",
+              "lcs": [
+                {
+                  "id": "2238",
+                  "name": "AIESEC in University of Nicosia (managing all universities of Cyprus)"
+                },
+                {
+                  "id": "2237",
+                  "name": "AIESEC in University of Nicosia (managing all universities of Cyprus)"
+                },
+                {
+                  "id": "2235",
+                  "name": "University of Nicosia (managing all universities of Cyprus)"
+                }
+              ]
+            },
+            {
+              "id": "1570",
+              "name": "Czech Republic",
+              "lcs": [
+                {
+                  "id": "635",
+                  "name": "BRNO"
+                },
+                {
+                  "id": "26",
+                  "name": "České Budějovice (closed)"
+                },
+                {
+                  "id": "1855",
+                  "name": "CUNI Praha (closed)"
+                },
+                {
+                  "id": "1486",
+                  "name": "ČZU Praha"
+                },
+                {
+                  "id": "70",
+                  "name": "Hradec Králové (closed)"
+                },
+                {
+                  "id": "2020",
+                  "name": "Liberec (closed)"
+                },
+                {
+                  "id": "2040",
+                  "name": "MC Czech Republic, Prague"
+                },
+                {
+                  "id": "426",
+                  "name": "OLOMOUC"
+                },
+                {
+                  "id": "644",
+                  "name": "Ostrava (closed)"
+                },
+                {
+                  "id": "553",
+                  "name": "PILSEN"
+                },
+                {
+                  "id": "607",
+                  "name": "PRAGUE"
+                }
+              ]
+            },
+            {
+              "id": "1577",
+              "name": "Denmark",
+              "lcs": [
+                {
+                  "id": "1503",
+                  "name": "Aalborg"
+                },
+                {
+                  "id": "258",
+                  "name": "Aarhus"
+                },
+                {
+                  "id": "638",
+                  "name": "Copenhagen"
+                },
+                {
+                  "id": "2036",
+                  "name": "Denmark (National Office)"
+                },
+                {
+                  "id": "7",
+                  "name": "Horsens"
+                },
+                {
+                  "id": "1531",
+                  "name": "Odense"
+                }
+              ]
+            },
+            {
+              "id": "1565",
+              "name": "Estonia",
+              "lcs": [
+                {
+                  "id": "1879",
+                  "name": "MC Estonia"
+                },
+                {
+                  "id": "626",
+                  "name": "Tallinn "
+                },
+                {
+                  "id": "618",
+                  "name": "Tartu"
+                }
+              ]
+            },
+            {
+              "id": "1620",
+              "name": "Finland",
+              "lcs": [
+                {
+                  "id": "1038",
+                  "name": "AALTO (Closed LC)"
+                },
+                {
+                  "id": "1303",
+                  "name": "Helsingin Yliopisto (Closed LC)"
+                },
+                {
+                  "id": "209",
+                  "name": "Helsinki"
+                },
+                {
+                  "id": "1027",
+                  "name": "JYVÄSKYLÄ"
+                },
+                {
+                  "id": "1817",
+                  "name": "National Office (FI) "
+                },
+                {
+                  "id": "1095",
+                  "name": "Oulu"
+                },
+                {
+                  "id": "1515",
+                  "name": "SAIMAA (Closed LC)"
+                },
+                {
+                  "id": "1204",
+                  "name": "TAMPERE"
+                },
+                {
+                  "id": "1781",
+                  "name": "Turku"
+                }
+              ]
+            },
+            {
+              "id": "1597",
+              "name": "France",
+              "lcs": [
+                {
+                  "id": "1751",
+                  "name": "Lyon"
+                },
+                {
+                  "id": "1806",
+                  "name": "MC France"
+                },
+                {
+                  "id": "3213",
+                  "name": "Montpellier Business School"
+                },
+                {
+                  "id": "2033",
+                  "name": "Rennes"
+                },
+                {
+                  "id": "2031",
+                  "name": "Rouen "
+                },
+                {
+                  "id": "1680",
+                  "name": "Toulouse"
+                },
+                {
+                  "id": "1749",
+                  "name": "Universités de Paris"
+                }
+              ]
+            },
+            {
+              "id": "531",
+              "name": "Georgia",
+              "lcs": [
+                {
+                  "id": "1847",
+                  "name": "Batumi"
+                },
+                {
+                  "id": "85",
+                  "name": "Kutaisi [Closed]"
+                },
+                {
+                  "id": "2751",
+                  "name": "MC Georgia"
+                },
+                {
+                  "id": "514",
+                  "name": "TBILISI"
+                },
+                {
+                  "id": "110",
+                  "name": "The University of Georgia"
+                }
+              ]
+            },
+            {
+              "id": "1596",
+              "name": "Germany",
+              "lcs": [
+                {
+                  "id": "713",
+                  "name": "AACHEN"
+                },
+                {
+                  "id": "2433",
+                  "name": "AIESEC in Germany"
+                },
+                {
+                  "id": "686",
+                  "name": "AUGSBURG"
+                },
+                {
+                  "id": "680",
+                  "name": "BERLIN HU"
+                },
+                {
+                  "id": "708",
+                  "name": "BERLIN TU"
+                },
+                {
+                  "id": "664",
+                  "name": "BIELEFELD"
+                },
+                {
+                  "id": "1442",
+                  "name": "BOCHUM"
+                },
+                {
+                  "id": "693",
+                  "name": "BONN"
+                },
+                {
+                  "id": "678",
+                  "name": "BRAUNSCHWEIG"
+                },
+                {
+                  "id": "665",
+                  "name": "BREMEN"
+                },
+                {
+                  "id": "667",
+                  "name": "DARMSTADT"
+                },
+                {
+                  "id": "677",
+                  "name": "DRESDEN"
+                },
+                {
+                  "id": "1448",
+                  "name": "DUESSELDORF"
+                },
+                {
+                  "id": "657",
+                  "name": "FRANKFURT (MAIN)"
+                },
+                {
+                  "id": "1420",
+                  "name": "GIESSEN-MARBURG"
+                },
+                {
+                  "id": "1415",
+                  "name": "GOETTINGEN"
+                },
+                {
+                  "id": "757",
+                  "name": "HALLE"
+                },
+                {
+                  "id": "1523",
+                  "name": "HAMBURG"
+                },
+                {
+                  "id": "1441",
+                  "name": "HANNOVER"
+                },
+                {
+                  "id": "696",
+                  "name": "JENA"
+                },
+                {
+                  "id": "1533",
+                  "name": "KAISERSLAUTERN"
+                },
+                {
+                  "id": "643",
+                  "name": "KARLSRUHE"
+                },
+                {
+                  "id": "1421",
+                  "name": "KOELN"
+                },
+                {
+                  "id": "1410",
+                  "name": "LEIPZIG"
+                },
+                {
+                  "id": "1414",
+                  "name": "LUENEBURG"
+                },
+                {
+                  "id": "1447",
+                  "name": "MAGDEBURG"
+                },
+                {
+                  "id": "60",
+                  "name": "MAINZ - WIESBADEN"
+                },
+                {
+                  "id": "1520",
+                  "name": "MANNHEIM"
+                },
+                {
+                  "id": "1394",
+                  "name": "MUENCHEN"
+                },
+                {
+                  "id": "1484",
+                  "name": "MUENSTER"
+                },
+                {
+                  "id": "1440",
+                  "name": "NUERNBERG"
+                },
+                {
+                  "id": "663",
+                  "name": "PADERBORN"
+                },
+                {
+                  "id": "1403",
+                  "name": "PASSAU"
+                },
+                {
+                  "id": "648",
+                  "name": "REGENSBURG"
+                },
+                {
+                  "id": "647",
+                  "name": "STUTTGART & HOHENHEIM"
+                }
+              ]
+            },
+            {
+              "id": "1555",
+              "name": "Greece",
+              "lcs": [
+                {
+                  "id": "811",
+                  "name": "AEGEAN (EXP)"
+                },
+                {
+                  "id": "834",
+                  "name": "ATHENS"
+                },
+                {
+                  "id": "762",
+                  "name": "AUTH"
+                },
+                {
+                  "id": "1880",
+                  "name": "Crete (EXP)"
+                },
+                {
+                  "id": "1883",
+                  "name": "DUTH (EXP)"
+                },
+                {
+                  "id": "5754",
+                  "name": "MC Greece"
+                },
+                {
+                  "id": "974",
+                  "name": "NKUA"
+                },
+                {
+                  "id": "186",
+                  "name": "PATRAS (EXP)"
+                },
+                {
+                  "id": "1347",
+                  "name": "Piraeus (UniPi)"
+                },
+                {
+                  "id": "1882",
+                  "name": "UoI (EXP)"
+                },
+                {
+                  "id": "1281",
+                  "name": "UoM THESSALONIKI"
+                },
+                {
+                  "id": "2356",
+                  "name": "Volos (EXP)"
+                }
+              ]
+            },
+            {
+              "id": "1549",
+              "name": "Hungary",
+              "lcs": [
+                {
+                  "id": "508",
+                  "name": "BME - Budapest"
+                },
+                {
+                  "id": "1090",
+                  "name": "Budapest Business School - KÜLKER (CLOSED)"
+                },
+                {
+                  "id": "1460",
+                  "name": "Budapest Business School - KVIK"
+                },
+                {
+                  "id": "1411",
+                  "name": "Budapest Business School - PSZF"
+                },
+                {
+                  "id": "6150",
+                  "name": "Budapest - ELTE (CLOSED)"
+                },
+                {
+                  "id": "1416",
+                  "name": "Budapest University - KÖZGÁZ"
+                },
+                {
+                  "id": "1468",
+                  "name": "Debrecen"
+                },
+                {
+                  "id": "2244",
+                  "name": "MC Hungary"
+                },
+                {
+                  "id": "256",
+                  "name": "Pecs (PeX)"
+                },
+                {
+                  "id": "1488",
+                  "name": "SZIE - Budapest (CLOSED)"
+                },
+                {
+                  "id": "4206",
+                  "name": "Veszprém (CLOSED)"
+                }
+              ]
+            },
+            {
+              "id": "1550",
+              "name": "Iceland",
+              "lcs": [
+                {
+                  "id": "1124",
+                  "name": "Reykjavik"
+                }
+              ]
+            },
+            {
+              "id": "1540",
+              "name": "Ireland",
+              "lcs": [
+                {
+                  "id": "614",
+                  "name": "DCU"
+                },
+                {
+                  "id": "617",
+                  "name": "Galway (Expansion)"
+                },
+                {
+                  "id": "225",
+                  "name": "Ireland (MC)"
+                },
+                {
+                  "id": "2145",
+                  "name": "Maynooth (Expansion)"
+                },
+                {
+                  "id": "227",
+                  "name": "TRINITY"
+                },
+                {
+                  "id": "604",
+                  "name": "UCC"
+                },
+                {
+                  "id": "687",
+                  "name": "UCD (Expansion)"
+                }
+              ]
+            },
+            {
+              "id": "1542",
+              "name": "Italy",
+              "lcs": [
+                {
+                  "id": "1289",
+                  "name": "Ancona (Closed)"
+                },
+                {
+                  "id": "865",
+                  "name": "Bari"
+                },
+                {
+                  "id": "96",
+                  "name": "Bologna"
+                },
+                {
+                  "id": "1641",
+                  "name": "Brescia"
+                },
+                {
+                  "id": "2335",
+                  "name": "Cagliari (closed)"
+                },
+                {
+                  "id": "878",
+                  "name": "Catania"
+                },
+                {
+                  "id": "95",
+                  "name": "Ferrara (Closed)"
+                },
+                {
+                  "id": "1453",
+                  "name": "Genova (Closed)"
+                },
+                {
+                  "id": "2306",
+                  "name": "ITALIA"
+                },
+                {
+                  "id": "3708",
+                  "name": "MC Italy"
+                },
+                {
+                  "id": "930",
+                  "name": "Milano"
+                },
+                {
+                  "id": "2338",
+                  "name": "Modena (Closed)"
+                },
+                {
+                  "id": "1035",
+                  "name": "Napoli Federico II"
+                },
+                {
+                  "id": "1120",
+                  "name": "Napoli Parthenope (closed)"
+                },
+                {
+                  "id": "83",
+                  "name": "Padova"
+                },
+                {
+                  "id": "1069",
+                  "name": "Palermo (Closed)"
+                },
+                {
+                  "id": "1117",
+                  "name": "Pavia"
+                },
+                {
+                  "id": "2326",
+                  "name": "Perugia"
+                },
+                {
+                  "id": "2322",
+                  "name": "PoliTO"
+                },
+                {
+                  "id": "754",
+                  "name": "Roma Sapienza"
+                },
+                {
+                  "id": "2037",
+                  "name": "Roma Tor Vergata (Closed)"
+                },
+                {
+                  "id": "821",
+                  "name": "Roma Tre"
+                },
+                {
+                  "id": "1004",
+                  "name": "Torino"
+                },
+                {
+                  "id": "1370",
+                  "name": "Trento"
+                },
+                {
+                  "id": "689",
+                  "name": "Trieste"
+                },
+                {
+                  "id": "1389",
+                  "name": "Venezia"
+                }
+              ]
+            },
+            {
+              "id": "494",
+              "name": "Kazakhstan",
+              "lcs": [
+                {
+                  "id": "493",
+                  "name": "Almaty"
+                },
+                {
+                  "id": "72",
+                  "name": "Astana"
+                },
+                {
+                  "id": "5952",
+                  "name": "National Office Kazakhstan"
+                },
+                {
+                  "id": "3883",
+                  "name": "To be deleted"
+                },
+                {
+                  "id": "3378",
+                  "name": "To be deleted"
+                },
+                {
+                  "id": "3884",
+                  "name": "To be deleted"
+                },
+                {
+                  "id": "3886",
+                  "name": "To be deleted"
+                },
+                {
+                  "id": "3885",
+                  "name": "To be deleted"
+                },
+                {
+                  "id": "3379",
+                  "name": "To be deleted"
+                },
+                {
+                  "id": "2470",
+                  "name": "To be deleted (Astana Old)"
+                }
+              ]
+            },
+            {
+              "id": "543",
+              "name": "Kyrgyzstan ",
+              "lcs": [
+                {
+                  "id": "2869",
+                  "name": "AUCA"
+                },
+                {
+                  "id": "2067",
+                  "name": "Bishkek"
+                },
+                {
+                  "id": "2069",
+                  "name": "Impulse for Bishkek Leaders (IBL) (Closed)"
+                },
+                {
+                  "id": "2051",
+                  "name": "MC Kyrgyzstan (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "1579",
+              "name": "Latvia",
+              "lcs": [
+                {
+                  "id": "1815",
+                  "name": "CLOSED"
+                },
+                {
+                  "id": "1687",
+                  "name": "CLOSED"
+                },
+                {
+                  "id": "1532",
+                  "name": " Latvia University(LU)"
+                },
+                {
+                  "id": "3048",
+                  "name": "MC Latvia"
+                },
+                {
+                  "id": "3215",
+                  "name": "SU SSE"
+                },
+                {
+                  "id": "3216",
+                  "name": "SU Turība"
+                }
+              ]
+            },
+            {
+              "id": "2121",
+              "name": "Liechtenstein",
+              "lcs": [
+                {
+                  "id": "2330",
+                  "name": "MC Switzerland"
+                },
+                {
+                  "id": "2268",
+                  "name": "Vaduz"
+                }
+              ]
+            },
+            {
+              "id": "1580",
+              "name": "Lithuania",
+              "lcs": [
+                {
+                  "id": "1456",
+                  "name": "KAUNAS [Closed]"
+                },
+                {
+                  "id": "1651",
+                  "name": "KTU"
+                },
+                {
+                  "id": "1763",
+                  "name": "Lithuania (MC)"
+                },
+                {
+                  "id": "675",
+                  "name": "SIAULIAI [Closed]"
+                },
+                {
+                  "id": "1467",
+                  "name": "VILNIUS"
+                },
+                {
+                  "id": "66",
+                  "name": "VILNIUS ISM [Closed]"
+                }
+              ]
+            },
+            {
+              "id": "1548",
+              "name": "Macedonia",
+              "lcs": [
+                {
+                  "id": "2879",
+                  "name": "OHRID"
+                },
+                {
+                  "id": "728",
+                  "name": "PRILEP"
+                },
+                {
+                  "id": "2877",
+                  "name": "SKOPJE"
+                },
+                {
+                  "id": "1107",
+                  "name": "SKOPJE"
+                },
+                {
+                  "id": "1802",
+                  "name": "SU STIP"
+                }
+              ]
+            },
+            {
+              "id": "1612",
+              "name": "Malta",
+              "lcs": [
+                {
+                  "id": "2133",
+                  "name": "Middlesex University"
+                },
+                {
+                  "id": "1398",
+                  "name": "University of Malta"
+                }
+              ]
+            },
+            {
+              "id": "536",
+              "name": "Moldova",
+              "lcs": [
+                {
+                  "id": "445",
+                  "name": "BALTI"
+                },
+                {
+                  "id": "535",
+                  "name": "CHISINAU"
+                },
+                {
+                  "id": "6381",
+                  "name": "MC"
+                }
+              ]
+            },
+            {
+              "id": "2103",
+              "name": "Monaco",
+              "lcs": []
+            },
+            {
+              "id": "57",
+              "name": "Montenegro",
+              "lcs": [
+                {
+                  "id": "3741",
+                  "name": "LC Niksic"
+                },
+                {
+                  "id": "2251",
+                  "name": "Podgorica"
+                }
+              ]
+            },
+            {
+              "id": "1573",
+              "name": "Norway",
+              "lcs": [
+                {
+                  "id": "1506",
+                  "name": "BI Oslo"
+                },
+                {
+                  "id": "2449",
+                  "name": "Høyskolen kristiania"
+                },
+                {
+                  "id": "1800",
+                  "name": "MC Norway"
+                },
+                {
+                  "id": "611",
+                  "name": "NHH"
+                },
+                {
+                  "id": "6348",
+                  "name": "Oslo"
+                },
+                {
+                  "id": "2448",
+                  "name": "OsloMet"
+                },
+                {
+                  "id": "2876",
+                  "name": "Tromsø"
+                },
+                {
+                  "id": "620",
+                  "name": "Trondheim"
+                },
+                {
+                  "id": "603",
+                  "name": "University of Oslo"
+                }
+              ]
+            },
+            {
+              "id": "1564",
+              "name": "Poland",
+              "lcs": [
+                {
+                  "id": "711",
+                  "name": "BIALYSTOK (Closed)"
+                },
+                {
+                  "id": "1434",
+                  "name": "GDANSK UG"
+                },
+                {
+                  "id": "623",
+                  "name": "KATOWICE UE"
+                },
+                {
+                  "id": "712",
+                  "name": "KIELCE (Closed)"
+                },
+                {
+                  "id": "1510",
+                  "name": "KRAKOW"
+                },
+                {
+                  "id": "1426",
+                  "name": "LODZ"
+                },
+                {
+                  "id": "883",
+                  "name": "LUBLIN UMCS"
+                },
+                {
+                  "id": "1924",
+                  "name": "MC Poland"
+                },
+                {
+                  "id": "1640",
+                  "name": "MC Poland 2"
+                },
+                {
+                  "id": "692",
+                  "name": "POZNAŃ"
+                },
+                {
+                  "id": "1258",
+                  "name": "RZESZÓW (Closed)"
+                },
+                {
+                  "id": "690",
+                  "name": "SZCZECIN"
+                },
+                {
+                  "id": "1527",
+                  "name": "TORUN UMK (Closed)"
+                },
+                {
+                  "id": "1333",
+                  "name": "Warsaw UW"
+                },
+                {
+                  "id": "1483",
+                  "name": "WARSZAWA SGH"
+                },
+                {
+                  "id": "705",
+                  "name": "WROCLAW UE"
+                },
+                {
+                  "id": "1451",
+                  "name": "Wroclaw UT (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "1544",
+              "name": "Portugal",
+              "lcs": [
+                {
+                  "id": "6694",
+                  "name": "__"
+                },
+                {
+                  "id": "6693",
+                  "name": "Algarve"
+                },
+                {
+                  "id": "2112",
+                  "name": "[CLOSED] Açores (Ilha de São Miguel)"
+                },
+                {
+                  "id": "427",
+                  "name": "[CLOSED] AVEIRO"
+                },
+                {
+                  "id": "1773",
+                  "name": "[CLOSED] COVILHA UBI"
+                },
+                {
+                  "id": "1507",
+                  "name": "[CLOSED] LISBOA CATOLICA"
+                },
+                {
+                  "id": "576",
+                  "name": "[CLOSED] LISBOA NOVA"
+                },
+                {
+                  "id": "3411",
+                  "name": "[CLOSED] PORTO CATÓLICA"
+                },
+                {
+                  "id": "2164",
+                  "name": "[CLOSED] Vila Real"
+                },
+                {
+                  "id": "646",
+                  "name": "Coimbra NEFE"
+                },
+                {
+                  "id": "3347",
+                  "name": "Lisboa Centro"
+                },
+                {
+                  "id": "1428",
+                  "name": "Lisboa ISCTE"
+                },
+                {
+                  "id": "1482",
+                  "name": "Lisboa ISEG"
+                },
+                {
+                  "id": "2054",
+                  "name": "Lourinhã (MC)"
+                },
+                {
+                  "id": "1492",
+                  "name": "PORTO FEP"
+                },
+                {
+                  "id": "1297",
+                  "name": "UMinho"
+                }
+              ]
+            },
+            {
+              "id": "1560",
+              "name": "Romania",
+              "lcs": [
+                {
+                  "id": "204",
+                  "name": "ARAD (closed)"
+                },
+                {
+                  "id": "1529",
+                  "name": "BRASOV"
+                },
+                {
+                  "id": "1475",
+                  "name": "BUCURESTI"
+                },
+                {
+                  "id": "1458",
+                  "name": "Cluj-Napoca"
+                },
+                {
+                  "id": "591",
+                  "name": "CONSTANTA"
+                },
+                {
+                  "id": "1399",
+                  "name": "Craiova"
+                },
+                {
+                  "id": "584",
+                  "name": "GALATI"
+                },
+                {
+                  "id": "641",
+                  "name": "IASI"
+                },
+                {
+                  "id": "1427",
+                  "name": "ORADEA"
+                },
+                {
+                  "id": "1471",
+                  "name": "PITESTI"
+                },
+                {
+                  "id": "1857",
+                  "name": "ROMANIA (National)"
+                },
+                {
+                  "id": "1061",
+                  "name": "SIBIU"
+                },
+                {
+                  "id": "203",
+                  "name": "SUCEAVA (closed)"
+                },
+                {
+                  "id": "655",
+                  "name": "TIMISOARA"
+                },
+                {
+                  "id": "2060",
+                  "name": "University of Bucharest"
+                }
+              ]
+            },
+            {
+              "id": "1618",
+              "name": "Russia",
+              "lcs": [
+                {
+                  "id": "1494",
+                  "name": "CHELYABINSK - VAM"
+                },
+                {
+                  "id": "243",
+                  "name": "EKATERINBURG"
+                },
+                {
+                  "id": "1446",
+                  "name": "ENGEC-GUAP, Saint-Petersburg"
+                },
+                {
+                  "id": "1516",
+                  "name": "IZHEVSK - VAM"
+                },
+                {
+                  "id": "2024",
+                  "name": "KALININGRAD - VAM"
+                },
+                {
+                  "id": "245",
+                  "name": "KAZAN - VAM"
+                },
+                {
+                  "id": "235",
+                  "name": "KRASNODAR - VAM"
+                },
+                {
+                  "id": "628",
+                  "name": "KRASNOYARSK - VAM"
+                },
+                {
+                  "id": "5919",
+                  "name": "Kursk - VAM"
+                },
+                {
+                  "id": "1455",
+                  "name": "MOSCOW"
+                },
+                {
+                  "id": "192",
+                  "name": "NIZHNY NOVGOROD - VAM"
+                },
+                {
+                  "id": "1437",
+                  "name": "NOVOSIBIRSK - VAM"
+                },
+                {
+                  "id": "585",
+                  "name": "OMSK - VAM"
+                },
+                {
+                  "id": "2875",
+                  "name": "ORENBURG - VAM"
+                },
+                {
+                  "id": "1818",
+                  "name": "PERM - VAM"
+                },
+                {
+                  "id": "2329",
+                  "name": "REU (Moscow) - VAM"
+                },
+                {
+                  "id": "3675",
+                  "name": "Rostov-on-Don"
+                },
+                {
+                  "id": "1758",
+                  "name": "RUSSIA (MC)"
+                },
+                {
+                  "id": "416",
+                  "name": "SAMARA - VAM"
+                },
+                {
+                  "id": "1530",
+                  "name": "SPUEF, Saint-Petersburg"
+                },
+                {
+                  "id": "6690",
+                  "name": "SURGUT"
+                },
+                {
+                  "id": "242",
+                  "name": "TOMSK - VAM"
+                },
+                {
+                  "id": "2314",
+                  "name": "TYUMEN"
+                },
+                {
+                  "id": "540",
+                  "name": "UFA"
+                },
+                {
+                  "id": "1724",
+                  "name": "ULAN-UDE - VAM"
+                },
+                {
+                  "id": "2477",
+                  "name": "VAM RUSSIA"
+                },
+                {
+                  "id": "239",
+                  "name": "VORONEZH"
+                },
+                {
+                  "id": "2586",
+                  "name": "YAROSLAVL' - VAM"
+                }
+              ]
+            },
+            {
+              "id": "1547",
+              "name": "Serbia",
+              "lcs": [
+                {
+                  "id": "1349",
+                  "name": "Belgrade Faculty of Economics (EF)"
+                },
+                {
+                  "id": "1195",
+                  "name": "BELGRADE FON"
+                },
+                {
+                  "id": "1801",
+                  "name": "Bg"
+                },
+                {
+                  "id": "487",
+                  "name": "KRAGUJEVAC"
+                },
+                {
+                  "id": "5985",
+                  "name": "MC Serbia"
+                },
+                {
+                  "id": "191",
+                  "name": "Metropolitan"
+                },
+                {
+                  "id": "1235",
+                  "name": "NIS"
+                },
+                {
+                  "id": "2215",
+                  "name": "Novi Pazar (not active)"
+                },
+                {
+                  "id": "1279",
+                  "name": "NOVI SAD"
+                },
+                {
+                  "id": "1517",
+                  "name": "Singidunum"
+                },
+                {
+                  "id": "84",
+                  "name": "Subotica"
+                }
+              ]
+            },
+            {
+              "id": "1536",
+              "name": "Slovakia",
+              "lcs": [
+                {
+                  "id": "1405",
+                  "name": "Banská Bystrica"
+                },
+                {
+                  "id": "627",
+                  "name": "Bratislava"
+                },
+                {
+                  "id": "633",
+                  "name": "Comenius University - Closed"
+                },
+                {
+                  "id": "668",
+                  "name": "Košice - Closed"
+                },
+                {
+                  "id": "6414",
+                  "name": "MC Slovakia"
+                },
+                {
+                  "id": "1477",
+                  "name": "Nitra"
+                },
+                {
+                  "id": "1661",
+                  "name": "Prešov - Closed"
+                },
+                {
+                  "id": "274",
+                  "name": "Trnava - Closed"
+                }
+              ]
+            },
+            {
+              "id": "1587",
+              "name": "Slovenia",
+              "lcs": [
+                {
+                  "id": "600",
+                  "name": "KRANJ - SU (EXPANSION)"
+                },
+                {
+                  "id": "1273",
+                  "name": "LJUBLJANA"
+                },
+                {
+                  "id": "1518",
+                  "name": "MARIBOR"
+                },
+                {
+                  "id": "1958",
+                  "name": "MC Slovenia"
+                }
+              ]
+            },
+            {
+              "id": "1619",
+              "name": "Spain",
+              "lcs": [
+                {
+                  "id": "1345",
+                  "name": "Bellaterra Barcelona"
+                },
+                {
+                  "id": "1357",
+                  "name": "Bilbao"
+                },
+                {
+                  "id": "1755",
+                  "name": "(CLOSED) Galicia "
+                },
+                {
+                  "id": "830",
+                  "name": " (CLOSED) Zaragoza"
+                },
+                {
+                  "id": "1154",
+                  "name": "Granada (CLOSED)"
+                },
+                {
+                  "id": "444",
+                  "name": "Madrid"
+                },
+                {
+                  "id": "769",
+                  "name": "Málaga"
+                },
+                {
+                  "id": "2414",
+                  "name": "MC Spain [iCX National Accounts]"
+                },
+                {
+                  "id": "34",
+                  "name": "MC Spain [oGX National Accounts]"
+                },
+                {
+                  "id": "758",
+                  "name": "Pompeu Fabra Barcelona"
+                },
+                {
+                  "id": "1296",
+                  "name": "Sevilla"
+                },
+                {
+                  "id": "2046",
+                  "name": "SPAIN"
+                },
+                {
+                  "id": "1636",
+                  "name": "URL Barcelona [Closed]"
+                },
+                {
+                  "id": "721",
+                  "name": "Valencia"
+                }
+              ]
+            },
+            {
+              "id": "1601",
+              "name": "Sweden",
+              "lcs": [
+                {
+                  "id": "1112",
+                  "name": "Gothenburg (closed) "
+                },
+                {
+                  "id": "431",
+                  "name": "Linköping (closed) "
+                },
+                {
+                  "id": "1102",
+                  "name": "Lund (closed)"
+                },
+                {
+                  "id": "6650",
+                  "name": "Lund (Closed)"
+                },
+                {
+                  "id": "2100",
+                  "name": "STOCKHOLM (EXP)"
+                },
+                {
+                  "id": "2123",
+                  "name": "Sweden MC"
+                },
+                {
+                  "id": "947",
+                  "name": "Uppsala (EXP)"
+                }
+              ]
+            },
+            {
+              "id": "1558",
+              "name": "Switzerland",
+              "lcs": [
+                {
+                  "id": "1148",
+                  "name": "BASEL (closed - National Office)"
+                },
+                {
+                  "id": "986",
+                  "name": "BERN"
+                },
+                {
+                  "id": "1285",
+                  "name": "FRIBOURG"
+                },
+                {
+                  "id": "1129",
+                  "name": "GENEVA"
+                },
+                {
+                  "id": "869",
+                  "name": "LAUSANNE"
+                },
+                {
+                  "id": "2102",
+                  "name": "LUCERNE (closed - National Office)"
+                },
+                {
+                  "id": "3312",
+                  "name": "LUGANO"
+                },
+                {
+                  "id": "2331",
+                  "name": "MC - National Office Switzerland"
+                },
+                {
+                  "id": "1240",
+                  "name": "ST GALLEN"
+                },
+                {
+                  "id": "587",
+                  "name": "ZURICH"
+                }
+              ]
+            },
+            {
+              "id": "537",
+              "name": "Tajikistan",
+              "lcs": [
+                {
+                  "id": "1764",
+                  "name": "Dushanbe"
+                },
+                {
+                  "id": "546",
+                  "name": "DUSHANBE"
+                },
+                {
+                  "id": "1820",
+                  "name": "KHUJAND"
+                }
+              ]
+            },
+            {
+              "id": "1598",
+              "name": "The Netherlands",
+              "lcs": [
+                {
+                  "id": "1041",
+                  "name": "AMSTERDAM"
+                },
+                {
+                  "id": "107",
+                  "name": "DELFT"
+                },
+                {
+                  "id": "862",
+                  "name": "GRONINGEN"
+                },
+                {
+                  "id": "299",
+                  "name": "LEIDEN AND THE HAGUE"
+                },
+                {
+                  "id": "886",
+                  "name": "MAASTRICHT"
+                },
+                {
+                  "id": "1956",
+                  "name": "MC The Netherlands"
+                },
+                {
+                  "id": "1185",
+                  "name": "NIJMEGEN"
+                },
+                {
+                  "id": "763",
+                  "name": "ROTTERDAM"
+                },
+                {
+                  "id": "888",
+                  "name": "TILBURG"
+                },
+                {
+                  "id": "818",
+                  "name": "Twente (closed)"
+                },
+                {
+                  "id": "1329",
+                  "name": "UTRECHT"
+                },
+                {
+                  "id": "823",
+                  "name": "Wageningen (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "1622",
+              "name": "Turkey",
+              "lcs": [
+                {
+                  "id": "941",
+                  "name": "ADANA"
+                },
+                {
+                  "id": "2082",
+                  "name": "AIESEC Turkey"
+                },
+                {
+                  "id": "1052",
+                  "name": "ANKARA"
+                },
+                {
+                  "id": "528",
+                  "name": "ANTALYA"
+                },
+                {
+                  "id": "1267",
+                  "name": "BURSA"
+                },
+                {
+                  "id": "527",
+                  "name": "DENIZLI"
+                },
+                {
+                  "id": "1244",
+                  "name": "EASTERN MEDITERRANEAN"
+                },
+                {
+                  "id": "837",
+                  "name": "ESKISEHIR"
+                },
+                {
+                  "id": "1361",
+                  "name": "GAZIANTEP"
+                },
+                {
+                  "id": "2849",
+                  "name": "ISPARTA"
+                },
+                {
+                  "id": "813",
+                  "name": "ISTANBUL"
+                },
+                {
+                  "id": "1650",
+                  "name": "ISTANBUL ASIA"
+                },
+                {
+                  "id": "2440",
+                  "name": "ISTANBUL WEST"
+                },
+                {
+                  "id": "796",
+                  "name": "İZMİR"
+                },
+                {
+                  "id": "1255",
+                  "name": "KOCAELI"
+                },
+                {
+                  "id": "2452",
+                  "name": "KONYA"
+                },
+                {
+                  "id": "2848",
+                  "name": "KUTAHYA"
+                },
+                {
+                  "id": "2484",
+                  "name": "MC Turkey "
+                },
+                {
+                  "id": "2451",
+                  "name": "MC Turkey II"
+                },
+                {
+                  "id": "2441",
+                  "name": "SAKARYA"
+                },
+                {
+                  "id": "1893",
+                  "name": "TRABZON"
+                }
+              ]
+            },
+            {
+              "id": "1610",
+              "name": "Ukraine",
+              "lcs": [
+                {
+                  "id": "2881",
+                  "name": "CHERKASY "
+                },
+                {
+                  "id": "158",
+                  "name": "CHERNIVTSI"
+                },
+                {
+                  "id": "1463",
+                  "name": "DNIPRO"
+                },
+                {
+                  "id": "1452",
+                  "name": "IVANO-FRANKIVSK"
+                },
+                {
+                  "id": "682",
+                  "name": "KHARKIV"
+                },
+                {
+                  "id": "1833",
+                  "name": "KROPYVNYTSKYI"
+                },
+                {
+                  "id": "1461",
+                  "name": "KYIV"
+                },
+                {
+                  "id": "2445",
+                  "name": "Kyiv Universities"
+                },
+                {
+                  "id": "1464",
+                  "name": "LVIV"
+                },
+                {
+                  "id": "533",
+                  "name": "MC Ukraine"
+                },
+                {
+                  "id": "1404",
+                  "name": "ODESA"
+                },
+                {
+                  "id": "418",
+                  "name": "POLTAVA (closed)"
+                },
+                {
+                  "id": "2587",
+                  "name": "RIVNE "
+                },
+                {
+                  "id": "2555",
+                  "name": "SUMY (closed)"
+                },
+                {
+                  "id": "660",
+                  "name": "TERNOPIL"
+                },
+                {
+                  "id": "91",
+                  "name": "UZHHOROD (closed)"
+                },
+                {
+                  "id": "43",
+                  "name": "VINNYTSIA"
+                },
+                {
+                  "id": "2685",
+                  "name": "ZAPORIZHZHIA (closed)"
+                }
+              ]
+            },
+            {
+              "id": "1563",
+              "name": "United Kingdom",
+              "lcs": [
+                {
+                  "id": "1875",
+                  "name": "ABERDEEN"
+                },
+                {
+                  "id": "1029",
+                  "name": "BRISTOL (EXP)"
+                },
+                {
+                  "id": "1049",
+                  "name": "CARDIFF"
+                },
+                {
+                  "id": "816",
+                  "name": "EDINBURGH"
+                },
+                {
+                  "id": "1363",
+                  "name": "GLASGOW (EXP)"
+                },
+                {
+                  "id": "3180",
+                  "name": "IMPERIAL COLLEGE LONDON"
+                },
+                {
+                  "id": "2311",
+                  "name": "KING'S COLLEGE LONDON"
+                },
+                {
+                  "id": "1142",
+                  "name": "LEEDS (EXP)"
+                },
+                {
+                  "id": "1849",
+                  "name": "London - MC UK"
+                },
+                {
+                  "id": "951",
+                  "name": "LSE (EXP)"
+                },
+                {
+                  "id": "1076",
+                  "name": "MANCHESTER"
+                },
+                {
+                  "id": "965",
+                  "name": "NOTTINGHAM"
+                },
+                {
+                  "id": "1013",
+                  "name": "UCL"
+                },
+                {
+                  "id": "753",
+                  "name": "WARWICK"
+                }
+              ]
+            },
+            {
+              "id": "2115",
+              "name": "Uzbekistan",
+              "lcs": [
+                {
+                  "id": "2436",
+                  "name": "Uzbekistan MC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1632",
+          "name": "Middle East and Africa",
+          "mcs": [
+            {
+              "id": "457",
+              "name": "Algeria",
+              "lcs": [
+                {
+                  "id": "302",
+                  "name": "Babez"
+                },
+                {
+                  "id": "4137",
+                  "name": "Batna (Closed Expansion)"
+                },
+                {
+                  "id": "2468",
+                  "name": "Bejaia"
+                },
+                {
+                  "id": "301",
+                  "name": "Benak"
+                },
+                {
+                  "id": "82",
+                  "name": "Blida"
+                },
+                {
+                  "id": "81",
+                  "name": "Constantine"
+                },
+                {
+                  "id": "2041",
+                  "name": "EXP Ouargla (Closed)"
+                },
+                {
+                  "id": "4111",
+                  "name": "Kolea (Closed Expansion)"
+                },
+                {
+                  "id": "6051",
+                  "name": "MC Algeria"
+                },
+                {
+                  "id": "211",
+                  "name": "Oran"
+                },
+                {
+                  "id": "2467",
+                  "name": "Tlemcen"
+                }
+              ]
+            },
+            {
+              "id": "518",
+              "name": "Bahrain",
+              "lcs": [
+                {
+                  "id": "111",
+                  "name": "Awal"
+                },
+                {
+                  "id": "4443",
+                  "name": "(closed)"
+                },
+                {
+                  "id": "4437",
+                  "name": "(closed)"
+                },
+                {
+                  "id": "2348",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "2347",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4435",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4438",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4434",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "2351",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "2350",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "2349",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4441",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4440",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4442",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4436",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "4439",
+                  "name": "(Closed)"
+                },
+                {
+                  "id": "37",
+                  "name": "(Closed ASU)"
+                },
+                {
+                  "id": "517",
+                  "name": "(Closed RCSI)"
+                },
+                {
+                  "id": "1852",
+                  "name": "Dilmun"
+                },
+                {
+                  "id": "4444",
+                  "name": "MC Bahrain"
+                },
+                {
+                  "id": "176",
+                  "name": "Tylos"
+                }
+              ]
+            },
+            {
+              "id": "459",
+              "name": "Benin",
+              "lcs": [
+                {
+                  "id": "2422",
+                  "name": "."
+                },
+                {
+                  "id": "175",
+                  "name": "Abomey-Calavi"
+                },
+                {
+                  "id": "6701",
+                  "name": "AIESEC in Benin "
+                },
+                {
+                  "id": "3445",
+                  "name": "Cotonou"
+                },
+                {
+                  "id": "458",
+                  "name": "ENEAM"
+                },
+                {
+                  "id": "2110",
+                  "name": "MC Benin"
+                },
+                {
+                  "id": "2482",
+                  "name": "MC Benin 2"
+                },
+                {
+                  "id": "2039",
+                  "name": "Porto-Novo"
+                },
+                {
+                  "id": "2055",
+                  "name": "UATM Gasa Formation"
+                }
+              ]
+            },
+            {
+              "id": "1584",
+              "name": "Botswana",
+              "lcs": [
+                {
+                  "id": "2275",
+                  "name": "BIUST"
+                },
+                {
+                  "id": "2271",
+                  "name": "BIUST"
+                },
+                {
+                  "id": "2272",
+                  "name": "BIUST"
+                },
+                {
+                  "id": "2274",
+                  "name": "BIUST"
+                },
+                {
+                  "id": "2276",
+                  "name": "BIUST"
+                },
+                {
+                  "id": "2273",
+                  "name": "BIUST"
+                },
+                {
+                  "id": "2270",
+                  "name": "Botswana International  University of Science and Technology"
+                },
+                {
+                  "id": "65",
+                  "name": "GIPS"
+                },
+                {
+                  "id": "202",
+                  "name": "LIMKOKWING"
+                },
+                {
+                  "id": "1030",
+                  "name": "UNIVERSITY OF BOTSWANA"
+                }
+              ]
+            },
+            {
+              "id": "180",
+              "name": "Burkina Faso",
+              "lcs": [
+                {
+                  "id": "2457",
+                  "name": "BF expansion"
+                },
+                {
+                  "id": "2277",
+                  "name": "Bobo-Dioulasso"
+                },
+                {
+                  "id": "1854",
+                  "name": "Koudougou"
+                },
+                {
+                  "id": "179",
+                  "name": "Ouagadougou"
+                }
+              ]
+            },
+            {
+              "id": "29",
+              "name": "Cabo Verde",
+              "lcs": [
+                {
+                  "id": "1894",
+                  "name": "Assomada (Expansion)"
+                },
+                {
+                  "id": "2216",
+                  "name": "Other (CLOSED)"
+                },
+                {
+                  "id": "20",
+                  "name": "PRAIA"
+                }
+              ]
+            },
+            {
+              "id": "1581",
+              "name": "Cameroon",
+              "lcs": [
+                {
+                  "id": "6692",
+                  "name": "Bafoussam"
+                },
+                {
+                  "id": "4302",
+                  "name": "Bagangté"
+                },
+                {
+                  "id": "215",
+                  "name": "Bamenda"
+                },
+                {
+                  "id": "4303",
+                  "name": "Bangangté"
+                },
+                {
+                  "id": "4304",
+                  "name": "Bangangté"
+                },
+                {
+                  "id": "4305",
+                  "name": "Bangangté"
+                },
+                {
+                  "id": "897",
+                  "name": "Buea"
+                },
+                {
+                  "id": "1366",
+                  "name": "Douala"
+                },
+                {
+                  "id": "115",
+                  "name": "DSCHANG "
+                },
+                {
+                  "id": "946",
+                  "name": "LC Yaounde"
+                },
+                {
+                  "id": "2429",
+                  "name": "Maroua"
+                }
+              ]
+            },
+            {
+              "id": "1537",
+              "name": "Cote D'Ivoire",
+              "lcs": [
+                {
+                  "id": "64",
+                  "name": "ABIDJAN  NORD "
+                },
+                {
+                  "id": "200",
+                  "name": "ABIDJAN SUD (Expansion)"
+                },
+                {
+                  "id": "6447",
+                  "name": "Bondoukou (Expansion)"
+                },
+                {
+                  "id": "1046",
+                  "name": "BOUAKE "
+                },
+                {
+                  "id": "889",
+                  "name": "COCODY-ABIDJAN"
+                },
+                {
+                  "id": "2397",
+                  "name": "DALOA (Expansion)"
+                },
+                {
+                  "id": "6686",
+                  "name": "Expansion Bondoukou"
+                },
+                {
+                  "id": "1792",
+                  "name": "KORHOGO"
+                },
+                {
+                  "id": "4243",
+                  "name": "MAN"
+                },
+                {
+                  "id": "4242",
+                  "name": "MAN"
+                },
+                {
+                  "id": "2398",
+                  "name": " UIPA "
+                },
+                {
+                  "id": "4245",
+                  "name": "UMAN"
+                },
+                {
+                  "id": "4241",
+                  "name": "UMAN"
+                },
+                {
+                  "id": "4240",
+                  "name": "UMAN"
+                },
+                {
+                  "id": "4244",
+                  "name": "UMAN"
+                },
+                {
+                  "id": "4239",
+                  "name": "U-MAN"
+                },
+                {
+                  "id": "4238",
+                  "name": "U-MAN"
+                },
+                {
+                  "id": "4237",
+                  "name": "U-MAN"
+                },
+                {
+                  "id": "4236",
+                  "name": "U-MAN (Expansion)"
+                },
+                {
+                  "id": "2399",
+                  "name": "YAMOUSSOUKRO (Expansion)"
+                }
+              ]
+            },
+            {
+              "id": "1609",
+              "name": "Egypt",
+              "lcs": [
+                {
+                  "id": "152",
+                  "name": "6O(Closed)"
+                },
+                {
+                  "id": "2820",
+                  "name": "6th October University"
+                },
+                {
+                  "id": "1788",
+                  "name": "AAST Alexandria"
+                },
+                {
+                  "id": "1322",
+                  "name": "AAST In CAIRO"
+                },
+                {
+                  "id": "1789",
+                  "name": "Ain Shams University"
+                },
+                {
+                  "id": "899",
+                  "name": "Alexandria"
+                },
+                {
+                  "id": "1729",
+                  "name": "Assuit(Closed)"
+                },
+                {
+                  "id": "1489",
+                  "name": "AUC"
+                },
+                {
+                  "id": "2126",
+                  "name": "Beni Suef"
+                },
+                {
+                  "id": "1064",
+                  "name": "Cairo University"
+                },
+                {
+                  "id": "109",
+                  "name": "Damietta (Closed)"
+                },
+                {
+                  "id": "5688",
+                  "name": "Galala"
+                },
+                {
+                  "id": "257",
+                  "name": "GUC"
+                },
+                {
+                  "id": "2124",
+                  "name": "Helwan"
+                },
+                {
+                  "id": "2114",
+                  "name": "Luxor & Aswan (Closed)"
+                },
+                {
+                  "id": "171",
+                  "name": "Mansoura"
+                },
+                {
+                  "id": "2524",
+                  "name": "Market expansion"
+                },
+                {
+                  "id": "2387",
+                  "name": "MC Egypt"
+                },
+                {
+                  "id": "1727",
+                  "name": "Menofia"
+                },
+                {
+                  "id": "1728",
+                  "name": "Minya(Closed)"
+                },
+                {
+                  "id": "2125",
+                  "name": "MIU"
+                },
+                {
+                  "id": "2817",
+                  "name": "MSA(Closed)"
+                },
+                {
+                  "id": "2818",
+                  "name": "MUST"
+                },
+                {
+                  "id": "6683",
+                  "name": "New Capital"
+                },
+                {
+                  "id": "15",
+                  "name": "Suez"
+                },
+                {
+                  "id": "1725",
+                  "name": "Tanta"
+                },
+                {
+                  "id": "6684",
+                  "name": "Test [Closed]"
+                },
+                {
+                  "id": "1114",
+                  "name": "Zagazig"
+                }
+              ]
+            },
+            {
+              "id": "476",
+              "name": "Ethiopia",
+              "lcs": [
+                {
+                  "id": "475",
+                  "name": "AAU in ETHIOPIA"
+                },
+                {
+                  "id": "89",
+                  "name": "EIABC"
+                },
+                {
+                  "id": "170",
+                  "name": "Expansions DBU"
+                },
+                {
+                  "id": "118",
+                  "name": "Expansions Hawassa University"
+                },
+                {
+                  "id": "2400",
+                  "name": "MC Ethiopia"
+                },
+                {
+                  "id": "59",
+                  "name": "MEKELLE"
+                },
+                {
+                  "id": "2392",
+                  "name": "Other Universities and Institutions"
+                },
+                {
+                  "id": "1775",
+                  "name": "School of Commerce (SOC)"
+                }
+              ]
+            },
+            {
+              "id": "499",
+              "name": "Gabon",
+              "lcs": [
+                {
+                  "id": "154",
+                  "name": "INSG"
+                },
+                {
+                  "id": "2851",
+                  "name": "POG"
+                },
+                {
+                  "id": "498",
+                  "name": "U.O.B."
+                }
+              ]
+            },
+            {
+              "id": "1568",
+              "name": "Ghana",
+              "lcs": [
+                {
+                  "id": "412",
+                  "name": "Central University"
+                },
+                {
+                  "id": "1864",
+                  "name": "delete (closed)"
+                },
+                {
+                  "id": "3246",
+                  "name": "delete (closed)"
+                },
+                {
+                  "id": "430",
+                  "name": "KNUST"
+                },
+                {
+                  "id": "1306",
+                  "name": "LEGON"
+                },
+                {
+                  "id": "2367",
+                  "name": "LEGON Expansions"
+                },
+                {
+                  "id": "1913",
+                  "name": "Member Committee Ghana"
+                },
+                {
+                  "id": "1862",
+                  "name": " RMU (EXP)"
+                },
+                {
+                  "id": "429",
+                  "name": "UCC (University of Cape Coast)"
+                },
+                {
+                  "id": "98",
+                  "name": "UDS(University of Development Studies) (closed)"
+                },
+                {
+                  "id": "136",
+                  "name": "UENR"
+                },
+                {
+                  "id": "2165",
+                  "name": "UMaT "
+                }
+              ]
+            },
+            {
+              "id": "530",
+              "name": "Jordan",
+              "lcs": [
+                {
+                  "id": "2323",
+                  "name": "AL-SALT (Closed)"
+                },
+                {
+                  "id": "501",
+                  "name": "AMMAN"
+                },
+                {
+                  "id": "2324",
+                  "name": " ( CLOSED LC )"
+                },
+                {
+                  "id": "500",
+                  "name": "IRBID (expansion)"
+                },
+                {
+                  "id": "6183",
+                  "name": "Jordan University (Expansion)"
+                },
+                {
+                  "id": "2342",
+                  "name": "(Virtual Expansion) MC Jordan"
+                },
+                {
+                  "id": "2119",
+                  "name": "ZARQA (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "1617",
+              "name": "Kenya",
+              "lcs": [
+                {
+                  "id": "4177",
+                  "name": "CHUKA University "
+                },
+                {
+                  "id": "814",
+                  "name": "CUEA"
+                },
+                {
+                  "id": "782",
+                  "name": "DAYSTAR"
+                },
+                {
+                  "id": "199",
+                  "name": "JKUAT"
+                },
+                {
+                  "id": "5622",
+                  "name": "Kenya Expansion/MC"
+                },
+                {
+                  "id": "781",
+                  "name": "Kenyatta University"
+                },
+                {
+                  "id": "855",
+                  "name": "Moi University"
+                },
+                {
+                  "id": "556",
+                  "name": "STRATHMORE UNIVERSITY"
+                },
+                {
+                  "id": "1141",
+                  "name": "UoN"
+                },
+                {
+                  "id": "740",
+                  "name": "USIU-Africa"
+                }
+              ]
+            },
+            {
+              "id": "2106",
+              "name": "Kingdom of Saudi Arabia",
+              "lcs": [
+                {
+                  "id": "2113",
+                  "name": "KSA"
+                },
+                {
+                  "id": "6583",
+                  "name": "Market Expansion [operated by AIESEC in Bahrain]"
+                }
+              ]
+            },
+            {
+              "id": "56",
+              "name": "Kuwait",
+              "lcs": [
+                {
+                  "id": "47",
+                  "name": "Kout"
+                },
+                {
+                  "id": "3015",
+                  "name": "Qarn"
+                }
+              ]
+            },
+            {
+              "id": "182",
+              "name": "Lebanon",
+              "lcs": [
+                {
+                  "id": "6550",
+                  "name": "AUB (EXP)"
+                },
+                {
+                  "id": "5853",
+                  "name": "Haigazian (EXP)"
+                },
+                {
+                  "id": "5854",
+                  "name": "LAU Beirut (EXP)"
+                },
+                {
+                  "id": "6547",
+                  "name": "LAU Byblos (EXP)"
+                },
+                {
+                  "id": "1735",
+                  "name": "MC Lebanon"
+                },
+                {
+                  "id": "6549",
+                  "name": "USJ (EXP)"
+                }
+              ]
+            },
+            {
+              "id": "219",
+              "name": "Liberia",
+              "lcs": [
+                {
+                  "id": "4501",
+                  "name": "______"
+                },
+                {
+                  "id": "4500",
+                  "name": "________"
+                },
+                {
+                  "id": "4203",
+                  "name": "-------"
+                },
+                {
+                  "id": "218",
+                  "name": "AIESEC In Capitol Hill"
+                },
+                {
+                  "id": "4170",
+                  "name": "AIESEC in Central Monrovia"
+                },
+                {
+                  "id": "4173",
+                  "name": "AIESEC in Central Monrovia"
+                },
+                {
+                  "id": "4171",
+                  "name": "AIESEC in Central Monrovia"
+                },
+                {
+                  "id": "4172",
+                  "name": "AIESEC in Central Monrovia"
+                },
+                {
+                  "id": "2206",
+                  "name": "AIESEC in Fendell"
+                },
+                {
+                  "id": "4204",
+                  "name": "Airfield"
+                },
+                {
+                  "id": "3444",
+                  "name": "Airfield"
+                },
+                {
+                  "id": "2207",
+                  "name": "AME University"
+                },
+                {
+                  "id": "1860",
+                  "name": "Expansions Liberia"
+                },
+                {
+                  "id": "3643",
+                  "name": "MC Liberia"
+                },
+                {
+                  "id": "2949",
+                  "name": "Tubman University"
+                },
+                {
+                  "id": "2208",
+                  "name": "United Methodist University"
+                }
+              ]
+            },
+            {
+              "id": "2428",
+              "name": "Madagascar",
+              "lcs": []
+            },
+            {
+              "id": "1709",
+              "name": "Malawi",
+              "lcs": [
+                {
+                  "id": "5891",
+                  "name": "African Bible College"
+                },
+                {
+                  "id": "3214",
+                  "name": "Blantyre"
+                },
+                {
+                  "id": "5887",
+                  "name": "DMI University"
+                },
+                {
+                  "id": "2916",
+                  "name": "Exploits University"
+                },
+                {
+                  "id": "2305",
+                  "name": "Lilongwe"
+                },
+                {
+                  "id": "5890",
+                  "name": "Mzuzu University"
+                },
+                {
+                  "id": "5888",
+                  "name": "Mzuzu University"
+                },
+                {
+                  "id": "5889",
+                  "name": "University of Malawi"
+                },
+                {
+                  "id": "5886",
+                  "name": "University of Malawi"
+                }
+              ]
+            },
+            {
+              "id": "2442",
+              "name": "Mali",
+              "lcs": [
+                {
+                  "id": "2443",
+                  "name": "LC Bamako"
+                }
+              ]
+            },
+            {
+              "id": "489",
+              "name": "Mauritius",
+              "lcs": [
+                {
+                  "id": "1753",
+                  "name": "Curtin Mauritius"
+                },
+                {
+                  "id": "1839",
+                  "name": "MC Mauritius"
+                },
+                {
+                  "id": "1643",
+                  "name": "Middlesex"
+                },
+                {
+                  "id": "417",
+                  "name": "Port-Louis"
+                },
+                {
+                  "id": "464",
+                  "name": "Reduit"
+                }
+              ]
+            },
+            {
+              "id": "1552",
+              "name": "Morocco",
+              "lcs": [
+                {
+                  "id": "1752",
+                  "name": "Agadir"
+                },
+                {
+                  "id": "2075",
+                  "name": "Ben Guerir"
+                },
+                {
+                  "id": "2360",
+                  "name": "Beni Mellal "
+                },
+                {
+                  "id": "534",
+                  "name": "Casablanca"
+                },
+                {
+                  "id": "2412",
+                  "name": "El Jadida"
+                },
+                {
+                  "id": "6695",
+                  "name": "Essaouira"
+                },
+                {
+                  "id": "1734",
+                  "name": "Fez"
+                },
+                {
+                  "id": "149",
+                  "name": "Ifrane"
+                },
+                {
+                  "id": "2359",
+                  "name": "Kenitra"
+                },
+                {
+                  "id": "4468",
+                  "name": "Khouribga"
+                },
+                {
+                  "id": "249",
+                  "name": "Marrakech"
+                },
+                {
+                  "id": "2407",
+                  "name": "Meknes"
+                },
+                {
+                  "id": "2074",
+                  "name": "Mohammedia"
+                },
+                {
+                  "id": "1785",
+                  "name": "Morocco (MC)"
+                },
+                {
+                  "id": "1106",
+                  "name": "Rabat"
+                },
+                {
+                  "id": "2469",
+                  "name": "Settat"
+                },
+                {
+                  "id": "1744",
+                  "name": "Tangier"
+                },
+                {
+                  "id": "2361",
+                  "name": "Tetouan"
+                }
+              ]
+            },
+            {
+              "id": "1574",
+              "name": "Mozambique",
+              "lcs": [
+                {
+                  "id": "1637",
+                  "name": "BEIRA"
+                },
+                {
+                  "id": "6698",
+                  "name": "GAZA (Expansion to be APD)"
+                },
+                {
+                  "id": "1912",
+                  "name": "HACKER (Closed)"
+                },
+                {
+                  "id": "113",
+                  "name": "ISCTEM"
+                },
+                {
+                  "id": "4533",
+                  "name": "MC Mozambique"
+                },
+                {
+                  "id": "306",
+                  "name": "NAMPULA (Closed)"
+                },
+                {
+                  "id": "6697",
+                  "name": "Training Mozambique"
+                },
+                {
+                  "id": "114",
+                  "name": "UEM"
+                }
+              ]
+            },
+            {
+              "id": "78",
+              "name": "Namibia",
+              "lcs": [
+                {
+                  "id": "61",
+                  "name": "NUST (CLOSED)"
+                },
+                {
+                  "id": "2195",
+                  "name": "Ongwediva (Expansion)"
+                },
+                {
+                  "id": "73",
+                  "name": "University Of Namibia (CLOSED)"
+                },
+                {
+                  "id": "2194",
+                  "name": "Walvis Bay (Expansion)"
+                },
+                {
+                  "id": "1772",
+                  "name": "Windhoek"
+                }
+              ]
+            },
+            {
+              "id": "2117",
+              "name": "Niger",
+              "lcs": [
+                {
+                  "id": "2264",
+                  "name": "Niamey"
+                }
+              ]
+            },
+            {
+              "id": "1578",
+              "name": "Nigeria",
+              "lcs": [
+                {
+                  "id": "1162",
+                  "name": "ABEOKUTA (EXPANSION)"
+                },
+                {
+                  "id": "2416",
+                  "name": "ABUAD (CLOSED)"
+                },
+                {
+                  "id": "2415",
+                  "name": "ABUAD (CLOSED)"
+                },
+                {
+                  "id": "1779",
+                  "name": "Abuja"
+                },
+                {
+                  "id": "1846",
+                  "name": "AKURE"
+                },
+                {
+                  "id": "3840",
+                  "name": "AMD (CLOSED)"
+                },
+                {
+                  "id": "2520",
+                  "name": "Awka (CLOSED)"
+                },
+                {
+                  "id": "2030",
+                  "name": "Babcock University (CLOSED)"
+                },
+                {
+                  "id": "1260",
+                  "name": "BENIN"
+                },
+                {
+                  "id": "1776",
+                  "name": "Benue (EXPANSION)"
+                },
+                {
+                  "id": "1777",
+                  "name": "Calabar"
+                },
+                {
+                  "id": "1290",
+                  "name": "Enugu"
+                },
+                {
+                  "id": "845",
+                  "name": "IBADAN"
+                },
+                {
+                  "id": "952",
+                  "name": "IFE"
+                },
+                {
+                  "id": "1063",
+                  "name": "Ilorin"
+                },
+                {
+                  "id": "2043",
+                  "name": "Jamaica (INVALID)"
+                },
+                {
+                  "id": "1017",
+                  "name": "Jos"
+                },
+                {
+                  "id": "1778",
+                  "name": "Kano (CLOSED)"
+                },
+                {
+                  "id": "1239",
+                  "name": "Lagos"
+                },
+                {
+                  "id": "2327",
+                  "name": "LAUTECH(CLOSED)"
+                },
+                {
+                  "id": "2328",
+                  "name": "Minna(CLOSED)"
+                },
+                {
+                  "id": "1780",
+                  "name": "Nig "
+                },
+                {
+                  "id": "2485",
+                  "name": "Nigerian French Village (CLOSED)"
+                },
+                {
+                  "id": "1166",
+                  "name": "PORT HARCOURT"
+                },
+                {
+                  "id": "2256",
+                  "name": "Salem University (CLOSED)"
+                },
+                {
+                  "id": "1237",
+                  "name": "Zaria (Closed)"
+                }
+              ]
+            },
+            {
+              "id": "529",
+              "name": "Qatar",
+              "lcs": [
+                {
+                  "id": "159",
+                  "name": "QATAR FOUNDATION"
+                },
+                {
+                  "id": "516",
+                  "name": "QATAR UNIVERSITY"
+                }
+              ]
+            },
+            {
+              "id": "506",
+              "name": "Rwanda",
+              "lcs": [
+                {
+                  "id": "6216",
+                  "name": "AIESEC in Kepler College | Rwanda"
+                },
+                {
+                  "id": "2884",
+                  "name": "AIESEC in Kigali"
+                },
+                {
+                  "id": "1884",
+                  "name": "CBE"
+                },
+                {
+                  "id": "2045",
+                  "name": "CST"
+                },
+                {
+                  "id": "2212",
+                  "name": "Huye"
+                },
+                {
+                  "id": "2234",
+                  "name": "Kigali Institute of Management (KIM)"
+                },
+                {
+                  "id": "1887",
+                  "name": "Musanze"
+                },
+                {
+                  "id": "505",
+                  "name": "Rwanda (MC)"
+                },
+                {
+                  "id": "2486",
+                  "name": "UTB"
+                }
+              ]
+            },
+            {
+              "id": "1605",
+              "name": "Senegal",
+              "lcs": [
+                {
+                  "id": "261",
+                  "name": "CESAG (EXP)"
+                },
+                {
+                  "id": "4402",
+                  "name": "ENSUP Afrique (Closed)"
+                },
+                {
+                  "id": "4403",
+                  "name": "IFACE (Closed)"
+                },
+                {
+                  "id": "1825",
+                  "name": "IFAGE (Closed)"
+                },
+                {
+                  "id": "6480",
+                  "name": "SAINT-LOUIS (EXP)"
+                },
+                {
+                  "id": "931",
+                  "name": "UCAD"
+                },
+                {
+                  "id": "6481",
+                  "name": "UIDT-T (Closed)"
+                },
+                {
+                  "id": "6482",
+                  "name": "ZIGUINCHOR (EXP)"
+                }
+              ]
+            },
+            {
+              "id": "1840",
+              "name": "Seychelles",
+              "lcs": [
+                {
+                  "id": "2016",
+                  "name": "Mahe (and Other)"
+                },
+                {
+                  "id": "2253",
+                  "name": "SITE Students or Graduates"
+                }
+              ]
+            },
+            {
+              "id": "2420",
+              "name": "Sierra Leone",
+              "lcs": [
+                {
+                  "id": "2425",
+                  "name": "LC Sierra Leone"
+                }
+              ]
+            },
+            {
+              "id": "1545",
+              "name": "South Africa",
+              "lcs": [
+                {
+                  "id": "184",
+                  "name": "IIE MSA"
+                },
+                {
+                  "id": "1765",
+                  "name": "MC South Africa"
+                },
+                {
+                  "id": "749",
+                  "name": "Nelson Mandela University"
+                },
+                {
+                  "id": "1929",
+                  "name": "Tshwane University of Technology"
+                },
+                {
+                  "id": "2554",
+                  "name": "University of Cape Town"
+                },
+                {
+                  "id": "1034",
+                  "name": "University of Johannesburg"
+                },
+                {
+                  "id": "185",
+                  "name": "University of Pretoria"
+                },
+                {
+                  "id": "1139",
+                  "name": "WITWATERSRAND (WITS)"
+                }
+              ]
+            },
+            {
+              "id": "477",
+              "name": "Sultanate of Oman",
+              "lcs": [
+                {
+                  "id": "1842",
+                  "name": "Closed"
+                },
+                {
+                  "id": "440",
+                  "name": "Muscat City"
+                }
+              ]
+            },
+            {
+              "id": "2418",
+              "name": "Swaziland",
+              "lcs": [
+                {
+                  "id": "2426",
+                  "name": "Universities of Swaziland"
+                }
+              ]
+            },
+            {
+              "id": "567",
+              "name": "Tanzania",
+              "lcs": [
+                {
+                  "id": "247",
+                  "name": "AIESEC In MZUMBE"
+                },
+                {
+                  "id": "424",
+                  "name": "AIESEC in SAUT"
+                },
+                {
+                  "id": "142",
+                  "name": "Expansions CBE"
+                },
+                {
+                  "id": "1697",
+                  "name": "Expansions IAA"
+                },
+                {
+                  "id": "248",
+                  "name": "IFM - INSTITUTE OF FINANCE MANAGEMENT"
+                },
+                {
+                  "id": "135",
+                  "name": "KILIMANJARO"
+                },
+                {
+                  "id": "1950",
+                  "name": "MC Tanzania"
+                },
+                {
+                  "id": "3676",
+                  "name": "UDOM"
+                },
+                {
+                  "id": "3677",
+                  "name": " UDOM"
+                },
+                {
+                  "id": "565",
+                  "name": "UDSM"
+                }
+              ]
+            },
+            {
+              "id": "1543",
+              "name": "Togo",
+              "lcs": [
+                {
+                  "id": "2437",
+                  "name": "ESIG-GS (EXPANSION)"
+                },
+                {
+                  "id": "220",
+                  "name": "UNIVERSITE DE KARA"
+                },
+                {
+                  "id": "860",
+                  "name": "Université de Lomé"
+                }
+              ]
+            },
+            {
+              "id": "1559",
+              "name": "Tunisia",
+              "lcs": [
+                {
+                  "id": "1270",
+                  "name": "BARDO"
+                },
+                {
+                  "id": "86",
+                  "name": "Bizerte"
+                },
+                {
+                  "id": "1214",
+                  "name": "Carthage"
+                },
+                {
+                  "id": "270",
+                  "name": "HADRUMET"
+                },
+                {
+                  "id": "891",
+                  "name": "MEDINA"
+                },
+                {
+                  "id": "513",
+                  "name": "NABEL"
+                },
+                {
+                  "id": "1813",
+                  "name": "RUSPINA"
+                },
+                {
+                  "id": "1012",
+                  "name": "SFAX"
+                },
+                {
+                  "id": "1803",
+                  "name": "TACAPES"
+                },
+                {
+                  "id": "1277",
+                  "name": "THYNA"
+                },
+                {
+                  "id": "745",
+                  "name": "UNIVERSITY"
+                },
+                {
+                  "id": "2157",
+                  "name": "Virtual Expansion (MC Tunisia)"
+                },
+                {
+                  "id": "2156",
+                  "name": "Virtual MC Tunisia"
+                }
+              ]
+            },
+            {
+              "id": "1602",
+              "name": "Uganda",
+              "lcs": [
+                {
+                  "id": "4335",
+                  "name": "CAVENDISH UNIVERSITY"
+                },
+                {
+                  "id": "4336",
+                  "name": "CAVENDISH UNIVERSITY"
+                },
+                {
+                  "id": "1870",
+                  "name": "Cavendish University, Kampala"
+                },
+                {
+                  "id": "2337",
+                  "name": "IUEA"
+                },
+                {
+                  "id": "4273",
+                  "name": "Kasese"
+                },
+                {
+                  "id": "4274",
+                  "name": "Kasese"
+                },
+                {
+                  "id": "4271",
+                  "name": "Kasese LC"
+                },
+                {
+                  "id": "4272",
+                  "name": "Kasese LC"
+                },
+                {
+                  "id": "253",
+                  "name": "KYAMBOGO"
+                },
+                {
+                  "id": "1853",
+                  "name": "Makerere University"
+                },
+                {
+                  "id": "859",
+                  "name": "Makerere University Kampala"
+                },
+                {
+                  "id": "1871",
+                  "name": "MC uganda"
+                },
+                {
+                  "id": "413",
+                  "name": "MUBS"
+                },
+                {
+                  "id": "187",
+                  "name": "NDEJJE"
+                },
+                {
+                  "id": "254",
+                  "name": "UCU"
+                },
+                {
+                  "id": "1787",
+                  "name": "UMU"
+                }
+              ]
+            },
+            {
+              "id": "1625",
+              "name": "United Arab Emirates",
+              "lcs": [
+                {
+                  "id": "2354",
+                  "name": " Abu Dhabi "
+                },
+                {
+                  "id": "2358",
+                  "name": "AUD"
+                },
+                {
+                  "id": "2357",
+                  "name": "DIAC (closed)"
+                },
+                {
+                  "id": "1031",
+                  "name": "Dubai"
+                },
+                {
+                  "id": "3346",
+                  "name": "ECB"
+                },
+                {
+                  "id": "1965",
+                  "name": "Sharjah"
+                },
+                {
+                  "id": "2321",
+                  "name": "UAE (MC)"
+                }
+              ]
+            },
+            {
+              "id": "2122",
+              "name": "Zambia",
+              "lcs": [
+                {
+                  "id": "2261",
+                  "name": "Lusaka"
+                },
+                {
+                  "id": "2262",
+                  "name": "Lusaka"
+                }
+              ]
+            },
+            {
+              "id": "2417",
+              "name": "Zimbabwe",
+              "lcs": [
+                {
+                  "id": "2419",
+                  "name": "Universities of Zimbabwe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
