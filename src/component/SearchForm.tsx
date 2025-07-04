@@ -243,7 +243,7 @@ export default function SearchForm() {
 
     return (
         <Box display="flex" flexDirection="column" alignItems="center" p={4} >
-            <Box width="100%" maxWidth={600} p={4} borderRadius={2} boxShadow={3} bgcolor="rgba(3, 126, 243, 0.8)">
+            <Box width="100%" maxWidth={600} p={4} borderRadius={2} boxShadow={3} bgcolor="rgba(3, 126, 243)">
             <form onSubmit={handleSubmit} style={{ width: '100%', maxWidth: 600 }}>
                 <Box mb={2}><Typography variant="h6" textAlign="center">Search Contact Info</Typography></Box>
                 <Select options={termOptions} value={selectedTerm} onChange={setSelectedTerm} required isClearable placeholder="Select the Term" />
@@ -261,7 +261,7 @@ export default function SearchForm() {
             </form>
             </Box>
 
-            {loading && <Box mt={4}><CircularProgress sx={{ color: 'white' }} /></Box>}
+            {loading && <Box mt={4}><CircularProgress sx={{ color: 'inherit' }} /></Box>}
 
             {error && (
                 <Snackbar open autoHideDuration={6000} onClose={() => setError(null)}>
@@ -270,7 +270,7 @@ export default function SearchForm() {
             )}
 
             {results && (
-                <Box ref={resultsRef} mt={6} width="100%" maxWidth={900} p={4} borderRadius={2} boxShadow={3} bgcolor="rgba(3, 126, 243,0.8)">
+                <Box ref={resultsRef} mt={6} width="100%" maxWidth={900} p={4} borderRadius={2} boxShadow={3} bgcolor="rgba(3, 126, 243)">
                     <Typography variant="subtitle1" mb={2} textAlign="center">
                         Search results for <strong>{selectedEntity?.label}</strong>, function <strong>{selectedFunction?.label}</strong>
                     </Typography>
